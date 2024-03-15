@@ -14,20 +14,20 @@
 
 ###  http://rpcw.di.uminho.pt/2024/musica#ensinaIntrumento
 :ensinaIntrumento rdf:type owl:ObjectProperty ;
-                    rdfs:domain :Curso ;
-                    rdfs:range :Instrumento .
+        rdfs:domain :Curso ;
+        rdfs:range :Instrumento .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#temCurso
 :temCurso rdf:type owl:ObjectProperty ;
-            rdfs:domain :Aluno ;
-            rdfs:range :Curso .
+        rdfs:domain :Aluno ;
+        rdfs:range :Curso .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#temInstrumento
 :temInstrumento rdf:type owl:ObjectProperty ;
-                rdfs:domain :Aluno ;
-                rdfs:range :Instrumento .
+        rdfs:domain :Curso ;
+        rdfs:range :Instrumento .
 
 
 #################################################################
@@ -36,47 +36,53 @@
 
 ###  http://rpcw.di.uminho.pt/2024/musica#anoCurso
 :anoCurso rdf:type owl:DatatypeProperty ;
-            rdfs:domain :Aluno .
+        rdfs:domain :Aluno ;
+        rdfs:range xsd:int .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#dataNasc
 :dataNasc rdf:type owl:DatatypeProperty ;
-            rdfs:domain :Aluno .
+        rdfs:domain :Aluno ;
+        rdfs:range xsd:string .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#designacao
 :designacao rdf:type owl:DatatypeProperty ;
-            rdfs:domain :Curso .
+        rdfs:domain :Curso ;
+        rdfs:range xsd:string .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#duracao
 :duracao rdf:type owl:DatatypeProperty ;
-            rdfs:domain :Curso .
+        rdfs:domain :Curso ;
+        rdfs:range xsd:int .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#idAluno
 :idAluno rdf:type owl:DatatypeProperty ;
-            rdfs:domain :Aluno .
+        rdfs:domain :Aluno .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#idCurso
 :idCurso rdf:type owl:DatatypeProperty ;
-            rdfs:domain :Curso .
+        rdfs:domain :Curso .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#idInstrumento
 :idInstrumento rdf:type owl:DatatypeProperty ;
-                rdfs:domain :Instrumento .
+        rdfs:domain :Instrumento .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#instrumento
 :instrumento rdf:type owl:DatatypeProperty ;
-                rdfs:domain :Instrumento .
+        rdfs:domain :Instrumento ;
+        rdfs:range xsd:string .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#nome
 :nome rdf:type owl:DatatypeProperty ;
-        rdfs:domain :Aluno .
+        rdfs:domain :Aluno ;
+        rdfs:range xsd:string .
 
 
 #################################################################
@@ -103,155 +109,155 @@
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Clarinete
 :Clarinete rdf:type owl:NamedIndividual ;
-            :idinstrumento "I1" ;
-            :instrumento "Clarinete" .
+        :idinstrumento "I1" ;
+        :instrumento "Clarinete" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Contrabaixo
 :Contrabaixo rdf:type owl:NamedIndividual ;
-            :idinstrumento "I2" ;
-            :instrumento "Contrabaixo" .
+        :idinstrumento "I2" ;
+        :instrumento "Contrabaixo" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Corne_Inglês
 :Corne_Inglês rdf:type owl:NamedIndividual ;
-            :idinstrumento "I3" ;
-            :instrumento "Corne_Inglês" .
+        :idinstrumento "I3" ;
+        :instrumento "Corne_Inglês" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Eufónio
 :Eufónio rdf:type owl:NamedIndividual ;
-            :idinstrumento "I4" ;
-            :instrumento "Eufónio" .
+        :idinstrumento "I4" ;
+        :instrumento "Eufónio" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Fagote
 :Fagote rdf:type owl:NamedIndividual ;
-            :idinstrumento "I5" ;
-            :instrumento "Fagote" .
+        :idinstrumento "I5" ;
+        :instrumento "Fagote" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Flauta
 :Flauta rdf:type owl:NamedIndividual ;
-            :idinstrumento "I6" ;
-            :instrumento "Flauta" .
+        :idinstrumento "I6" ;
+        :instrumento "Flauta" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Fliscorne
 :Fliscorne rdf:type owl:NamedIndividual ;
-            :idinstrumento "I7" ;
-            :instrumento "Fliscorne" .
+        :idinstrumento "I7" ;
+        :instrumento "Fliscorne" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Guitarra
 :Guitarra rdf:type owl:NamedIndividual ;
-            :idinstrumento "I8" ;
-            :instrumento "Guitarra" .
+        :idinstrumento "I8" ;
+        :instrumento "Guitarra" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Harpa
 :Harpa rdf:type owl:NamedIndividual ;
-            :idinstrumento "I9" ;
-            :instrumento "Harpa" .
+        :idinstrumento "I9" ;
+        :instrumento "Harpa" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Oboé
 :Oboé rdf:type owl:NamedIndividual ;
-            :idinstrumento "I10" ;
-            :instrumento "Oboé" .
+        :idinstrumento "I10" ;
+        :instrumento "Oboé" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Orgão
 :Orgão rdf:type owl:NamedIndividual ;
-            :idinstrumento "I11" ;
-            :instrumento "Orgão" .
+        :idinstrumento "I11" ;
+        :instrumento "Orgão" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Percussão
 :Percussão rdf:type owl:NamedIndividual ;
-            :idinstrumento "I12" ;
-            :instrumento "Percussão" .
+        :idinstrumento "I12" ;
+        :instrumento "Percussão" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Piano
 :Piano rdf:type owl:NamedIndividual ;
-            :idinstrumento "I13" ;
-            :instrumento "Piano" .
+        :idinstrumento "I13" ;
+        :instrumento "Piano" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Saxofone
 :Saxofone rdf:type owl:NamedIndividual ;
-            :idinstrumento "I14" ;
-            :instrumento "Saxofone" .
+        :idinstrumento "I14" ;
+        :instrumento "Saxofone" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Trombone
 :Trombone rdf:type owl:NamedIndividual ;
-            :idinstrumento "I15" ;
-            :instrumento "Trombone" .
+        :idinstrumento "I15" ;
+        :instrumento "Trombone" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Trompa
 :Trompa rdf:type owl:NamedIndividual ;
-            :idinstrumento "I16" ;
-            :instrumento "Trompa" .
+        :idinstrumento "I16" ;
+        :instrumento "Trompa" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Trompete
 :Trompete rdf:type owl:NamedIndividual ;
-            :idinstrumento "I17" ;
-            :instrumento "Trompete" .
+        :idinstrumento "I17" ;
+        :instrumento "Trompete" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Tuba
 :Tuba rdf:type owl:NamedIndividual ;
-            :idinstrumento "I18" ;
-            :instrumento "Tuba" .
+        :idinstrumento "I18" ;
+        :instrumento "Tuba" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Violoncelo
 :Violoncelo rdf:type owl:NamedIndividual ;
-            :idinstrumento "I19" ;
-            :instrumento "Violoncelo" .
+        :idinstrumento "I19" ;
+        :instrumento "Violoncelo" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Violino
 :Violino rdf:type owl:NamedIndividual ;
-            :idinstrumento "I20" ;
-            :instrumento "Violino" .
+        :idinstrumento "I20" ;
+        :instrumento "Violino" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Viola_de_Arco
 :Viola_de_Arco rdf:type owl:NamedIndividual ;
-            :idinstrumento "I21" ;
-            :instrumento "Viola_de_Arco" .
+        :idinstrumento "I21" ;
+        :instrumento "Viola_de_Arco" .
 
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#Bandolim
 :Bandolim rdf:type owl:NamedIndividual ;
-            :idinstrumento "I22" ;
-            :instrumento "Bandolim" .
+        :idinstrumento "I22" ;
+        :instrumento "Bandolim" .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#CB1

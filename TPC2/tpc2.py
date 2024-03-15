@@ -23,20 +23,20 @@ ttl = """@prefix : <http://rpcw.di.uminho.pt/2024/musica/> .
 
 ###  http://rpcw.di.uminho.pt/2024/musica#ensinaIntrumento
 :ensinaIntrumento rdf:type owl:ObjectProperty ;
-                    rdfs:domain :Curso ;
-                    rdfs:range :Instrumento .
+        rdfs:domain :Curso ;
+        rdfs:range :Instrumento .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#temCurso
 :temCurso rdf:type owl:ObjectProperty ;
-            rdfs:domain :Aluno ;
-            rdfs:range :Curso .
+        rdfs:domain :Aluno ;
+        rdfs:range :Curso .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#temInstrumento
 :temInstrumento rdf:type owl:ObjectProperty ;
-                rdfs:domain :Aluno ;
-                rdfs:range :Instrumento .
+        rdfs:domain :Curso ;
+        rdfs:range :Instrumento .
 
 
 #################################################################
@@ -45,47 +45,53 @@ ttl = """@prefix : <http://rpcw.di.uminho.pt/2024/musica/> .
 
 ###  http://rpcw.di.uminho.pt/2024/musica#anoCurso
 :anoCurso rdf:type owl:DatatypeProperty ;
-            rdfs:domain :Aluno .
+        rdfs:domain :Aluno ;
+        rdfs:range xsd:int .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#dataNasc
 :dataNasc rdf:type owl:DatatypeProperty ;
-            rdfs:domain :Aluno .
+        rdfs:domain :Aluno ;
+        rdfs:range xsd:string .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#designacao
 :designacao rdf:type owl:DatatypeProperty ;
-            rdfs:domain :Curso .
+        rdfs:domain :Curso ;
+        rdfs:range xsd:string .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#duracao
 :duracao rdf:type owl:DatatypeProperty ;
-            rdfs:domain :Curso .
+        rdfs:domain :Curso ;
+        rdfs:range xsd:int .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#idAluno
 :idAluno rdf:type owl:DatatypeProperty ;
-            rdfs:domain :Aluno .
+        rdfs:domain :Aluno .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#idCurso
 :idCurso rdf:type owl:DatatypeProperty ;
-            rdfs:domain :Curso .
+        rdfs:domain :Curso .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#idInstrumento
 :idInstrumento rdf:type owl:DatatypeProperty ;
-                rdfs:domain :Instrumento .
+        rdfs:domain :Instrumento .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#instrumento
 :instrumento rdf:type owl:DatatypeProperty ;
-                rdfs:domain :Instrumento .
+        rdfs:domain :Instrumento ;
+        rdfs:range xsd:string .
 
 
 ###  http://rpcw.di.uminho.pt/2024/musica#nome
 :nome rdf:type owl:DatatypeProperty ;
-        rdfs:domain :Aluno .
+        rdfs:domain :Aluno ;
+        rdfs:range xsd:string .
 
 
 #################################################################
@@ -117,8 +123,8 @@ for instrumento in bd["instrumentos"]:
 
 ###  http://rpcw.di.uminho.pt/2024/musica#{instrumento["#text"]}
 :{instrumento["#text"]} rdf:type owl:NamedIndividual ;
-            :idinstrumento "{instrumento["id"]}" ;
-            :instrumento "{instrumento["#text"]}" .
+        :idinstrumento "{instrumento["id"]}" ;
+        :instrumento "{instrumento["#text"]}" .
 
 """
 
