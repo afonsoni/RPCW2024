@@ -30,3 +30,5 @@ De seguida, foi elaborada um script para popular a ontologia com os dados do dat
 ### 4. Criação de um Repositório no GraphDB
 
 Por fim, foi implementado um repositório no GraphDB para armazenar e visualizar a ontologia.
+
+Ver gráfico visual [aqui](graphDB.png)
