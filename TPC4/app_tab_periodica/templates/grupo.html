@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <meta charset="UTF-8"/>
+        <title>Tabela Periódica: Grupo {{ grupo_id }}</title>
+        <link rel="icon" href="{{ url_for('static', filename="favicon.png") }}"/>
+        <link rel="stylesheet" href="{{ url_for('static', filename="styles/w3.css") }}"/>
+    </header>
+    <body>
+        <div class="w3-card-4">
+            <header class="w3-container w3-purple">
+                <h1><a href="/">Tabela Periódica</a>: Grupo {{ grupo_id }}</h1>
+            </header>
+
+            <div class="w3-container">
+                <table class="w3-table-all">
+                    <tr>
+                        <th>Número Atómico do Elemento</th>
+                        <th>Nome do Elemento</th>
+                        <th>Simbolo do Elemento</th>
+                    </tr>
+                    {% for entry in data %}
+                    <tr>
+                        <td><a href="/elementos/{{ entry.na.value }}">{{ entry.na.value }}</a></td>
+                        <td>{{ entry.nome.value }} </td>
+                        <td>{{ entry.simb.value }}</td>
+                        <td>{{ entry.pa.value }} </td>
+                        <td>{{ entry.cor.value }} </td>
+                        <td>{{ entry.period_num.value }} </td>
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>
+
+            <footer class="w3-container w3-purple">
+                <h5>Gerado por RPCW2024 em {{ time }} :: [<a href="/grupos">Return</a>]</h5>
+            </footer>
+        </div>
+    </body>
+</html>
