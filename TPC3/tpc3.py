@@ -46,10 +46,14 @@ ttl = f"""@prefix : <http://rpcw.di.uminho.pt/2024/mapa/> .
 #    Data properties
 #################################################################
 
-### http://www.rpcw.di.uminho.pt/2024/mapa#id
-:id rdf:type owl:DatatypeProperty ;
-        rdfs:domain :Cidade ,
-                :Ligacao ;
+### http://www.rpcw.di.uminho.pt/2024/mapa#idCidade
+:idCidade rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Cidade ;
+        <http://purl.org/dc/elements/1.1/creator> "afonsoni" .
+
+### http://www.rpcw.di.uminho.pt/2024/mapa#idLigacao
+:idLigacao rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Ligacao ;
         <http://purl.org/dc/elements/1.1/creator> "afonsoni" .
 
 ### http://www.rpcw.di.uminho.pt/2024/mapa#nome
@@ -97,11 +101,11 @@ for Cidade in bd["cidades"]:
 ###  http://rpcw.di.uminho.pt/2024/mapa-virtual#{Cidade["id"]}
 :{Cidade["id"]} rdf:type owl:NamedIndividual ,
         :Cidade ;
-        :descricao "{Cidade["descrição"]}" ;
-        :distrito "{Cidade["distrito"]}" ;
-        :id "{Cidade["id"]}" ;
+        :idCidade "{Cidade["id"]}" ;
         :nome "{Cidade["nome"]}" ;
-        :populacao {Cidade["população"]} .
+        :descricao "{Cidade["descrição"]}" ;
+        :populacao {Cidade["população"]} ;
+        :distrito "{Cidade["distrito"]}" .
 """
 
 for Ligacao in bd["ligacoes"]:
@@ -109,10 +113,10 @@ for Ligacao in bd["ligacoes"]:
 ###  http://rpcw.di.uminho.pt/2024/mapa-virtual#{Ligacao["id"]}
 :{Ligacao["id"]} rdf:type owl:NamedIndividual ,
         :Ligacao ;
-        :destino :{Ligacao["destino"]} ;
+        :idLigacao "{Ligacao["id"]}" ;
         :origem :{Ligacao["origem"]} ;
-        :distancia {Ligacao["distância"]} ;
-        :id "{Ligacao["id"]}" .
+        :destino :{Ligacao["destino"]} ;
+        :distancia {Ligacao["distância"]} .
 
 """
 
