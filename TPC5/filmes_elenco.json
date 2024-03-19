@@ -1,0 +1,38 @@
+[
+  {
+    "uri": "http://dbpedia.org/resource/A_Glitch_in_the_Matrix",
+    "designacao": "A Glitch in the Matrix",
+    "uri_atores": "http://dbpedia.org/resource/Erik_Davis, http://dbpedia.org/resource/Nick_Bostrom",
+    "atores": "Erik Davis, Nick Bostrom"
+  },
+  {
+    "uri": "http://dbpedia.org/resource/The_Matrix",
+    "designacao": "The Matrix",
+    "uri_atores": "http://dbpedia.org/resource/Carrie-Anne_Moss, http://dbpedia.org/resource/Hugo_Weaving, http://dbpedia.org/resource/Joe_Pantoliano, http://dbpedia.org/resource/Keanu_Reeves, http://dbpedia.org/resource/Laurence_Fishburne",
+    "atores": "Carrie-Anne Moss, Hugo Weaving, Joe Pantoliano, Keanu Reeves, Laurence Fishburne"
+  },
+  {
+    "uri": "http://dbpedia.org/resource/The_Matrix_Reloaded",
+    "designacao": "The Matrix Reloaded",
+    "uri_atores": "http://dbpedia.org/resource/Carrie-Anne_Moss, http://dbpedia.org/resource/Gloria_Foster, http://dbpedia.org/resource/Hugo_Weaving, http://dbpedia.org/resource/Jada_Pinkett_Smith, http://dbpedia.org/resource/Keanu_Reeves, http://dbpedia.org/resource/Laurence_Fishburne",
+    "atores": "Carrie-Anne Moss, Gloria Foster, Hugo Weaving, Jada Pinkett Smith, Keanu Reeves, Laurence Fishburne"
+  },
+  {
+    "uri": "http://dbpedia.org/resource/The_Matrix_Resurrections",
+    "designacao": "The Matrix Resurrections",
+    "uri_atores": "http://dbpedia.org/resource/Carrie-Anne_Moss, http://dbpedia.org/resource/Jada_Pinkett_Smith, http://dbpedia.org/resource/Jessica_Henwick, http://dbpedia.org/resource/Jonathan_Groff, http://dbpedia.org/resource/Keanu_Reeves, http://dbpedia.org/resource/Neil_Patrick_Harris, http://dbpedia.org/resource/Priyanka_Chopra_Jonas, http://dbpedia.org/resource/Yahya_Abdul-Mateen_II",
+    "atores": "Carrie-Anne Moss, Jada Pinkett Smith, Jessica Henwick, Jonathan Groff, Keanu Reeves, Neil Patrick Harris, Priyanka Chopra Jonas, Yahya Abdul-Mateen II"
+  },
+  {
+    "uri": "http://dbpedia.org/resource/The_Matrix_Revisited",
+    "designacao": "The Matrix Revisited",
+    "uri_atores": "http://dbpedia.org/resource/Joel_Silver, http://dbpedia.org/resource/Keanu_Reeves, http://dbpedia.org/resource/The_Wachowskis",
+    "atores": "Joel Silver, Keanu Reeves, The Wachowskis"
+  },
+  {
+    "uri": "http://dbpedia.org/resource/The_Matrix_Revolutions",
+    "designacao": "The Matrix Revolutions",
+    "uri_atores": "http://dbpedia.org/resource/Carrie-Anne_Moss, http://dbpedia.org/resource/Hugo_Weaving, http://dbpedia.org/resource/Jada_Pinkett_Smith, http://dbpedia.org/resource/Keanu_Reeves, http://dbpedia.org/resource/Laurence_Fishburne",
+    "atores": "Carrie-Anne Moss, Hugo Weaving, Jada Pinkett Smith, Keanu Reeves, Laurence Fishburne"
+  }
+]
