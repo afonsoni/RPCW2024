@@ -1,0 +1,482 @@
+[
+    {
+        "nome": "Queima do Judas",
+        "descricao": "Com um entremês popular de sátira local",
+        "data_inicio": "Sábado da Aleluia",
+        "data_fim": null,
+        "regiao": "beira_litoral",
+        "distrito": "Aveiro",
+        "concelho": "Águeda",
+        "freguesia": "União das freguesias de Travassô e Óis da Ribeira"
+    },
+    {
+        "nome": "Festa da Senhora da Graça",
+        "descricao": "Ou Festa do Pau. Erguer do mastro ou pau, revestido de verduras, no adro da capela da Senhora da Graça, que aí permanecerá até à noite de S. João, em cuja noite será queimado. O mastro é um pinheiro dos mais altos que deverá, segundo a tradição, ser roubado dos pinhais pelos mancebos antes de cumprirem o serviço militar, promessa à santa para que voltem vivos da guerra. O “pau” é erguido da parte da tarde, após as merendas, com a ajuda de todos, ao som da banda filarmónica.",
+        "data_inicio": "2ª feira de Páscoa",
+        "data_fim": null,
+        "regiao": "beira_litoral",
+        "distrito": "Aveiro",
+        "concelho": "Águeda",
+        "freguesia": "Assequins"
+    },
+    {
+        "nome": "Festa da Senhora da Piedade",
+        "descricao": "Procissão solene entre o santuário e a Igreja Matriz. Procissão das velas. Cantares ao desafio ao som das concertinas.",
+        "data_inicio": "terceiro domingo depois da Páscoa",
+        "data_fim": null,
+        "regiao": "beira_litoral",
+        "distrito": "Coimbra",
+        "concelho": "Lousã",
+        "freguesia": null
+    },
+    {
+        "nome": "Festas do Espírito Santo e Romaria de Nossa Senhora de Vagos",
+        "descricao": "Romaria. Bodo da Senhora: distribuição de pães bentos aos romeiros (pão de Cantanhede). Arraial no domingo e 2ª feira.",
+        "data_inicio": "Domingo do Espírito Santo (e segunda-feira)",
+        "data_fim": null,
+        "regiao": "beira_litoral",
+        "distrito": "Aveiro",
+        "concelho": "Vagos",
+        "freguesia": null
+    },
+    {
+        "nome": "Procissão dos Fogaréus",
+        "descricao": "Com a vila iluminada com velas e lanternas.",
+        "data_inicio": "5ª Feira Santa",
+        "data_fim": null,
+        "regiao": "ribatejo",
+        "distrito": "Santarém",
+        "concelho": "Sardoal",
+        "freguesia": null
+    },
+    {
+        "nome": "Festa da Senhora da Boa Viagem",
+        "descricao": "Com procissão de barcos engalanados nos rios Tejo e Zêzere.",
+        "data_inicio": "2ª feira de Páscoa",
+        "data_fim": null,
+        "regiao": "ribatejo",
+        "distrito": "Santarém",
+        "concelho": "Constância",
+        "freguesia": null
+    },
+    {
+        "nome": "Festas da Ascensão (toda a semana)",
+        "descricao": "Artesanato, folclore, touradas.",
+        "data_inicio": "quinta-feira da Ascensão",
+        "data_fim": null,
+        "regiao": "ribatejo",
+        "distrito": "Santarém",
+        "concelho": "Chamusca",
+        "freguesia": null
+    },
+    {
+        "nome": "Festa da sardinha assada",
+        "descricao": "Exibição de campinos. Bodo de sardinha assada.",
+        "data_inicio": "último fim-de-semana de Junho",
+        "data_fim": null,
+        "regiao": "ribatejo",
+        "distrito": "Santarém",
+        "concelho": "Benavente",
+        "freguesia": null
+    },
+    {
+        "nome": "Festas do Colete Encarnado",
+        "descricao": "Missa solene com música à maneira andaluzia. Fados. Homenagem, concentração e corrida de campinos. Artesanato, bandas filarmónicas pelas ruas. Eventos taurinos. Noite da sardinha assada.",
+        "data_inicio": "primeiro fim-de-semana de Julho",
+        "data_fim": null,
+        "regiao": "ribatejo",
+        "distrito": "Lisboa",
+        "concelho": "Vila Franca de Xira",
+        "freguesia": null
+    },
+    {
+        "nome": "Festa de Nossa Senhora da Paz",
+        "descricao": "Procissão da padroeira, peditório para a festa e entrega da bandeira aos festeiros do ano seguinte. Touradas.",
+        "data_inicio": "primeiro fim-de-semana de Agosto",
+        "data_fim": null,
+        "regiao": "ribatejo",
+        "distrito": "Santarém",
+        "concelho": "Benavente",
+        "freguesia": null
+    },
+    {
+        "nome": "Festa do Barrete Verde",
+        "descricao": "Largadas e corridas de touros; sardinhada colectiva; arruadas; Procissão em terra e no mar em honra de Nossa Senhora da Vida.",
+        "data_inicio": "segundo fim-de-semana de Agosto",
+        "data_fim": null,
+        "regiao": "ribatejo",
+        "distrito": "Setúbal",
+        "concelho": "Alcochete",
+        "freguesia": null
+    },
+    {
+        "nome": "círiode Nossa Senhora da Piedade",
+        "descricao": "Com cortejo do mordomo a cavalo e as oferendas transportadas em carroças. O círio, vela votiva, também é transportado a cavalo. Procissão subindo as escadas até à capela e missa.",
+        "data_inicio": "primeiro fim-de-semana de Setembro",
+        "data_fim": null,
+        "regiao": "ribatejo",
+        "distrito": "Santarém",
+        "concelho": "Tomar",
+        "freguesia": null
+    },
+    {
+        "nome": "celebrações da Semana Santa de que se destacam a do Ecce Homo",
+        "descricao": "Com farricocos empunhando archotes, a Procissão da Burrinha (quarta-feira) e a de Sexta-Feira Santa, ou do Enterro do Senhor",
+        "data_inicio": "Semana Santa",
+        "data_fim": null,
+        "regiao": "minho",
+        "distrito": "Braga",
+        "concelho": "Braga",
+        "freguesia": null
+    },
+    {
+        "nome": "Festa do Corpo de Deus",
+        "descricao": "Pelas ruas é corrida a chamada vaca das cordas.",
+        "data_inicio": "Dia do Corpo de Deus",
+        "data_fim": null,
+        "regiao": "minho",
+        "distrito": "Viana do Castelo",
+        "concelho": "Ponte de Lima",
+        "freguesia": null
+    },
+    {
+        "nome": "Festa do Corpus Christi",
+        "descricao": "Procissão que inclui o carro das ervas, o boi bento, o S. Jorge, que, no final, trava um combate com a Coca, dragão símbolo do Mal.",
+        "data_inicio": "Dia do Corpo de Deus",
+        "data_fim": null,
+        "regiao": "minho",
+        "distrito": "Viana do Castelo",
+        "concelho": "Monção",
+        "freguesia": null
+    },
+    {
+        "nome": "Romaria de S. Bento da Porta Aberta",
+        "descricao": "Cumprimento de promessas pelos tradicionais romeirinhos. Exibição de ranchos folclóricos e bandas filarmónicas.",
+        "data_inicio": "primeiro fim-de-semana de Julho",
+        "data_fim": null,
+        "regiao": "minho",
+        "distrito": "Viana do Castelo",
+        "concelho": "Paredes de Coura",
+        "freguesia": "União das freguesias de Cossourado e Linhares"
+    },
+    {
+        "nome": "Festas Gualterianas",
+        "descricao": "Em honra de S. Gualter. Cortejo do linho e Batalha de Flores.",
+        "data_inicio": "primeiro fim-de-semana de Agosto",
+        "data_fim": null,
+        "regiao": "minho",
+        "distrito": "Braga",
+        "concelho": "Guimarães",
+        "freguesia": null
+    },
+    {
+        "nome": "procissão solene",
+        "descricao": "Arruadas de bombos e Zés-Pereiras. Desfile de trajos regionais. Sábado à noite, rusgas e bailes populares à concertina. Fogo de artifício.",
+        "data_inicio": "segundo fim-de-semana de Agosto: Festa de Santa Rita de Cássia",
+        "data_fim": null,
+        "regiao": "minho",
+        "distrito": "Viana do Castelo",
+        "concelho": "Caminha",
+        "freguesia": null
+    },
+    {
+        "nome": "Romaria de Santa Marta de Portuzelo",
+        "descricao": "Arruadas com bombos e Zés-Pereiras. Cortejo etnográfico.",
+        "data_inicio": "segundo fim-de-semana de Agosto",
+        "data_fim": null,
+        "regiao": "minho",
+        "distrito": "Viana do Castelo",
+        "concelho": "Viana do Castelo",
+        "freguesia": "Santa Marta de Portuzelo"
+    },
+    {
+        "nome": "Nossa Senhora das Dores",
+        "descricao": "Arruadas com bombos e gaitas-de-foles. Exibição de ranchos folclóricos. Procissão no domingo.",
+        "data_inicio": "segundo fim-de-semana de Agosto",
+        "data_fim": null,
+        "regiao": "minho",
+        "distrito": "Viana do Castelo",
+        "concelho": "Monção",
+        "freguesia": null
+    },
+    {
+        "nome": "Senhora do Amparo",
+        "descricao": null,
+        "data_inicio": "segundo fim-de-semana de Agosto",
+        "data_fim": null,
+        "regiao": "minho",
+        "distrito": "Braga",
+        "concelho": "Esposende",
+        "freguesia": "União das freguesias de Apúlia e Fão"
+    },
+    {
+        "nome": "Festa de Nossa Senhora da Bonança",
+        "descricao": "Na quinta-feira de festa, procissão no mar até ao Forte da Ínsua. Domingo: procissão com andores ornamentados por ramos e palmitos. Cortejo etnográfico.",
+        "data_inicio": "segundo fim-de-semana de Setembro",
+        "data_fim": null,
+        "regiao": "minho",
+        "distrito": "Viana do Castelo",
+        "concelho": "Caminha",
+        "freguesia": "Vila Praia de Âncora"
+    },
+    {
+        "nome": "Feiras Novas",
+        "descricao": "Rusgas, concertinas e cantares ao desafio pelas ruas do casco histórico. Feira de gado. Cortejo etnográfico. Corrida de cavalos.",
+        "data_inicio": "20 de Setembro (ultimamente segundo fim-de-semana de Setembro)",
+        "data_fim": null,
+        "regiao": "minho",
+        "distrito": "Viana do Castelo",
+        "concelho": "Ponte de Lima",
+        "freguesia": null
+    },
+    {
+        "nome": "Festa da Senhora da Graça ou dos Folares",
+        "descricao": "Depois das cerimónias religiosas, há lugar ao leilão das ofertas, constituída por folares, enchidos e “ramos”, tabuleiros das ofertas ornamentados de flores",
+        "data_inicio": "2ª feira de Páscoa",
+        "data_fim": null,
+        "regiao": "algarve",
+        "distrito": "Faro",
+        "concelho": "Loulé",
+        "freguesia": "União de freguesias de Querença, Tôr e Benafim"
+    },
+    {
+        "nome": "Entrudo com mascarados (máscaras artesanais feitas localmente) e testamento",
+        "descricao": "Cortejo com grupos instrumentais de animação de rua, por vezes gaiteiros espanhóis. Domingo, mas sobretudo Terça-feira Gorda. Neste dia, testamento e queima da comadre e do compadre.",
+        "data_inicio": "Entrudo com mascarados (máscaras artesanais feitas localmente) e testamento",
+        "data_fim": null,
+        "regiao": "beira_alta",
+        "distrito": "Viseu",
+        "concelho": "Lamego",
+        "freguesia": "Lazarim"
+    },
+    {
+        "nome": "Romaria de S. Cosme",
+        "descricao": "No Domingo, bombos e pífaros pelas ruas. Na 2ª feira, romaria a caminho da capela, onde se merenda. À noitinha, regresso a Sandomil a pé, acabando na capela de S. Bento",
+        "data_inicio": "2ª feira de Páscoa",
+        "data_fim": null,
+        "regiao": "beira_alta",
+        "distrito": "Guarda",
+        "concelho": "Seia",
+        "freguesia": "Sandomil"
+    },
+    {
+        "nome": "Festa de Nossa Senhora do Mileu",
+        "descricao": "Procissão das velas.",
+        "data_inicio": "Festa de Nossa Senhora do Mileu",
+        "data_fim": null,
+        "regiao": "beira_alta",
+        "distrito": null,
+        "concelho": null,
+        "freguesia": null
+    },
+    {
+        "nome": "grupos músico-coreográfico-teatrais (cègadas– vide) percorrem a vila e actuam nas sociedades recreativas",
+        "descricao": "Maxime no Casino.",
+        "data_inicio": "grupos músico-coreográfico-teatrais (cègadas– vide) percorrem a vila e actuam nas sociedades recreativas",
+        "data_fim": null,
+        "regiao": "estremadura",
+        "distrito": null,
+        "concelho": null,
+        "freguesia": null
+    },
+    {
+        "nome": "celebrações do dia da espiga com merenda no pinhal de Leiria",
+        "descricao": "Guarda-se a espiga em casa durante o ano, como é da tradição por todo o país. Carros enfeitados com verduras, como também faz parte da tradição geral.",
+        "data_inicio": "5ª. Feira da Ascensão",
+        "data_fim": null,
+        "regiao": "estremadura",
+        "distrito": "Leiria",
+        "concelho": "Marinha Grande",
+        "freguesia": null
+    },
+    {
+        "nome": "Círio da Senhora da Arrábida",
+        "descricao": null,
+        "data_inicio": "primeiro fim-de-semana de Julho",
+        "data_fim": null,
+        "regiao": "estremadura",
+        "distrito": "Setúbal",
+        "concelho": "Setúbal",
+        "freguesia": null
+    },
+    {
+        "nome": "Quinta-Feira Santa",
+        "descricao": "Procissão com teatralização dos Mistérios da Paixão nas várias capelas do trajecto. Sexta-Feira Santa: procissão do Enterro do Senhor, à luz de archotes (as luzes da cidade estão apagadas) e ao som da fanfarra dos bombeiros e das matracas",
+        "data_inicio": "Semana Santa",
+        "data_fim": null,
+        "regiao": "beira_baixa",
+        "distrito": "Castelo Branco",
+        "concelho": "Fundão",
+        "freguesia": null
+    },
+    {
+        "nome": "Romaria da Senhora da Serra",
+        "descricao": null,
+        "data_inicio": "2ª feira de Páscoa",
+        "data_fim": null,
+        "regiao": "beira_baixa",
+        "distrito": "Castelo Branco",
+        "concelho": "Fundão",
+        "freguesia": "Castelo Novo"
+    },
+    {
+        "nome": "Festa da Senhora da Consolação ou Festa do Bodo",
+        "descricao": "Banquete com ensopado de carne para todos os presentes.",
+        "data_inicio": "2ª feira de Páscoa",
+        "data_fim": null,
+        "regiao": "beira_baixa",
+        "distrito": "Castelo Branco",
+        "concelho": "Idanha-a-Nova",
+        "freguesia": "União das freguesias de Monfortinho e Salvaterra do Extremo"
+    },
+    {
+        "nome": "Festa de Nossa Senhora dos Remédios",
+        "descricao": "Na véspera, procissão das velas. No domingo, nova procissão.",
+        "data_inicio": "40 dias depois da Páscoa",
+        "data_fim": null,
+        "regiao": "beira_baixa",
+        "distrito": "Castelo Branco",
+        "concelho": "Covilhã",
+        "freguesia": "Tortosendo"
+    },
+    {
+        "nome": "Festa de S. Gonçalo",
+        "descricao": null,
+        "data_inicio": "ou no domingo seguinte",
+        "data_fim": null,
+        "regiao": "douro_litoral",
+        "distrito": null,
+        "concelho": null,
+        "freguesia": "Vila Nova de Gaia"
+    },
+    {
+        "nome": "serração da velha e baile da pinhata",
+        "descricao": null,
+        "data_inicio": "quarta-feira da terceira semana da Quaresma",
+        "data_fim": null,
+        "regiao": "douro_litoral",
+        "distrito": null,
+        "concelho": null,
+        "freguesia": "Lousada"
+    },
+    {
+        "nome": "Senhor dos Passos",
+        "descricao": "Há procissão nocturna no sábado, que é mais vistosa que a de domingo, porque todas as casas se iluminam com velas e lanternas. No monte sobranceiro ao rio Douro, acendem-se fogueiras, o que torna o cenário mais impressivo.",
+        "data_inicio": "sábado e domingo de Lázaro",
+        "data_fim": null,
+        "regiao": "douro_litoral",
+        "distrito": "Porto",
+        "concelho": "Gondomar",
+        "freguesia": "União das freguesias de Melres e Medas"
+    },
+    {
+        "nome": "procissão das lanternas (sábado à noite) e procissão dos Passos no domingo",
+        "descricao": "Na procissão de sábado, que é nocturna, as crianças seguem empunhando lanternas. A matraca, aqui chamada campanha, ressoa no escuro. Incorporam-se muitos penitentes encapuçados. A procissão de domingo é imponente pelo grande número de figuras bíblicas e anjinhos que nela tomam parte. O povo da Póvoa de Varzim tem grande fervor religioso.",
+        "data_inicio": "sábado e domingo de Lázaro",
+        "data_fim": null,
+        "regiao": "douro_litoral",
+        "distrito": "Porto",
+        "concelho": "Póvoa de Varzim",
+        "freguesia": null
+    },
+    {
+        "nome": "Procissão dos Passos",
+        "descricao": "Que percorre as capelinhas da Via Sacra, de feição barroca, conhecidas pelo Calvário de Caramos.",
+        "data_inicio": "Procissão dos Passos",
+        "data_fim": null,
+        "regiao": "douro_litoral",
+        "distrito": null,
+        "concelho": null,
+        "freguesia": null
+    },
+    {
+        "nome": "procissão do Terro-Terro (nocturna",
+        "descricao": "À luz de archotes)",
+        "data_inicio": "Semana Santa",
+        "data_fim": null,
+        "regiao": "douro_litoral",
+        "distrito": "Aveiro",
+        "concelho": "Ovar",
+        "freguesia": null
+    },
+    {
+        "nome": "feira de gado",
+        "descricao": "Que costuma dar as três voltas rituais à capela. Chamam-lhe também a “feira dos despiques” ou encontro dos namorados porque é a ocasião de as moças retribuirem o folar que os rapazes lhes ofereceram no domingo de Páscoa, retribuição que é feita com a oferta de um doce em forma de coração (antigamente com um lenço com um coração bordado).",
+        "data_inicio": "quinta-feira de Páscoa: Festa de S. Jorge",
+        "data_fim": null,
+        "regiao": "douro_litoral",
+        "distrito": "Porto",
+        "concelho": "Felgueiras",
+        "freguesia": "União das freguesias de Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure"
+    },
+    {
+        "nome": "Romaria da Senhora da Hora",
+        "descricao": null,
+        "data_inicio": "5ª Feira da Ascensão (início no domingo anterior)",
+        "data_fim": null,
+        "regiao": "douro_litoral",
+        "distrito": "Porto",
+        "concelho": "Matosinhos",
+        "freguesia": null
+    },
+    {
+        "nome": "Festas do Senhor de Matosinhos",
+        "descricao": "Majestosa procissão até ao Senhor do Padrão. Bombos, Zés-Pereiras, ranchos folclóricos. Feira da loicinha. Fogo de bonecos, curiosa forma pirotécnica, com bonecos a lançar faíscas em girândola.",
+        "data_inicio": "51 dias depois da Páscoa)",
+        "data_fim": null,
+        "regiao": "douro_litoral",
+        "distrito": null,
+        "concelho": null,
+        "freguesia": "Matosinhos"
+    },
+    {
+        "nome": "Feira do vinho e do lavrador",
+        "descricao": "Artesanato e gastronomia. Concurso de cantares ao desafio.",
+        "data_inicio": "primeiro fim-de-semana de Julho",
+        "data_fim": null,
+        "regiao": "douro_litoral",
+        "distrito": "Aveiro",
+        "concelho": "Castelo de Paiva",
+        "freguesia": null
+    },
+    {
+        "nome": "Domingo Gordo",
+        "descricao": "Entrudo popular com caretos pelas ruas a chocalhar as moças.",
+        "data_inicio": "Domingo Gordo",
+        "data_fim": null,
+        "regiao": "tras_os_montes",
+        "distrito": "Bragança",
+        "concelho": "Macedo de Cavaleiros",
+        "freguesia": "União das freguesias de Podence e Santa Combinha"
+    },
+    {
+        "nome": "serração da velha",
+        "descricao": null,
+        "data_inicio": "quarta-feira da terceira semana da Quaresma",
+        "data_fim": null,
+        "regiao": "tras_os_montes",
+        "distrito": "Vila Real",
+        "concelho": "Montalegre",
+        "freguesia": "União das freguesias de Vilar de Perdizes e Meixide"
+    },
+    {
+        "nome": "Festa de São Lázaro",
+        "descricao": "As moças solteiras podem um bom casamento vestindo-se de forma semelhante à imagem do santo. A fita vermelha que pende do braço de S. Lázaro é passado pelo rosto dos crentes, pois o santo é protector contra as doenças de pele.",
+        "data_inicio": "Domingo de Lázaro (domingo anterior ao de Ramos)",
+        "data_fim": null,
+        "regiao": "tras_os_montes",
+        "distrito": "Vila Real",
+        "concelho": "Vila Real",
+        "freguesia": null
+    },
+    {
+        "nome": "Festas do Concelho",
+        "descricao": "Corridas de cavalos. Encontro de concertinas. Procissão.",
+        "data_inicio": "primeiro fim-de-semana de Agosto",
+        "data_fim": null,
+        "regiao": "tras_os_montes",
+        "distrito": "Vila Real",
+        "concelho": "Montalegre",
+        "freguesia": null
+    }
+]

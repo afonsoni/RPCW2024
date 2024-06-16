@@ -1,0 +1,183 @@
+@prefix : <http://rpcw.di.uminho.pt/festasromarias/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://rpcw.di.uminho.pt/festasromarias/> .
+
+<http://rpcw.di.uminho.pt/festasromarias> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://rpcw.di.uminho.pt/festas&romarias#concelhoTemFesta
+<http://rpcw.di.uminho.pt/festas&romarias#concelhoTemFesta> rdf:type owl:ObjectProperty ;
+                                                            owl:inverseOf <http://rpcw.di.uminho.pt/festas&romarias#ocorreConcelho> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#distritoTemFesta
+<http://rpcw.di.uminho.pt/festas&romarias#distritoTemFesta> rdf:type owl:ObjectProperty ;
+                                                            owl:inverseOf <http://rpcw.di.uminho.pt/festas&romarias#ocorreDistrito> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#freguesiaTemFesta
+<http://rpcw.di.uminho.pt/festas&romarias#freguesiaTemFesta> rdf:type owl:ObjectProperty ;
+                                                             owl:inverseOf <http://rpcw.di.uminho.pt/festas&romarias#ocorreFreguesia> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#ocorreConcelho
+<http://rpcw.di.uminho.pt/festas&romarias#ocorreConcelho> rdf:type owl:ObjectProperty ;
+                                                          rdfs:domain <http://rpcw.di.uminho.pt/festas&romarias#Festa> ;
+                                                          rdfs:range <http://rpcw.di.uminho.pt/festas&romarias#Concelho> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#ocorreDistrito
+<http://rpcw.di.uminho.pt/festas&romarias#ocorreDistrito> rdf:type owl:ObjectProperty ;
+                                                          rdfs:domain <http://rpcw.di.uminho.pt/festas&romarias#Festa> ;
+                                                          rdfs:range <http://rpcw.di.uminho.pt/festas&romarias#Distrito> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#ocorreFreguesia
+<http://rpcw.di.uminho.pt/festas&romarias#ocorreFreguesia> rdf:type owl:ObjectProperty ;
+                                                           rdfs:domain <http://rpcw.di.uminho.pt/festas&romarias#Festa> ;
+                                                           rdfs:range <http://rpcw.di.uminho.pt/festas&romarias#Freguesia> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#ocorreRegiao
+<http://rpcw.di.uminho.pt/festas&romarias#ocorreRegiao> rdf:type owl:ObjectProperty ;
+                                                        owl:inverseOf <http://rpcw.di.uminho.pt/festas&romarias#regiaoTemFesta> ;
+                                                        rdfs:domain <http://rpcw.di.uminho.pt/festas&romarias#Festa> ;
+                                                        rdfs:range <http://rpcw.di.uminho.pt/festas&romarias#Regiao> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#pertenceConcelho
+<http://rpcw.di.uminho.pt/festas&romarias#pertenceConcelho> rdf:type owl:ObjectProperty ;
+                                                            owl:inverseOf <http://rpcw.di.uminho.pt/festas&romarias#temFreguesia> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#pertenceDistrito
+<http://rpcw.di.uminho.pt/festas&romarias#pertenceDistrito> rdf:type owl:ObjectProperty ;
+                                                            owl:inverseOf <http://rpcw.di.uminho.pt/festas&romarias#temConcelho> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#pertenceRegiao
+<http://rpcw.di.uminho.pt/festas&romarias#pertenceRegiao> rdf:type owl:ObjectProperty ;
+                                                          owl:inverseOf <http://rpcw.di.uminho.pt/festas&romarias#temDistrito> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#regiaoTemFesta
+<http://rpcw.di.uminho.pt/festas&romarias#regiaoTemFesta> rdf:type owl:ObjectProperty .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#temConcelho
+<http://rpcw.di.uminho.pt/festas&romarias#temConcelho> rdf:type owl:ObjectProperty ;
+                                                       rdfs:domain <http://rpcw.di.uminho.pt/festas&romarias#Distrito> ;
+                                                       rdfs:range <http://rpcw.di.uminho.pt/festas&romarias#Concelho> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#temDistrito
+<http://rpcw.di.uminho.pt/festas&romarias#temDistrito> rdf:type owl:ObjectProperty ;
+                                                       rdfs:domain <http://rpcw.di.uminho.pt/festas&romarias#Regiao> ;
+                                                       rdfs:range <http://rpcw.di.uminho.pt/festas&romarias#Distrito> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#temFreguesia
+<http://rpcw.di.uminho.pt/festas&romarias#temFreguesia> rdf:type owl:ObjectProperty ;
+                                                        rdfs:domain <http://rpcw.di.uminho.pt/festas&romarias#Concelho> ;
+                                                        rdfs:range <http://rpcw.di.uminho.pt/festas&romarias#Freguesia> .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://rpcw.di.uminho.pt/festas&romarias#dataFim
+<http://rpcw.di.uminho.pt/festas&romarias#dataFim> rdf:type owl:DatatypeProperty ;
+                                                   rdfs:domain <http://rpcw.di.uminho.pt/festas&romarias#Festa> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#dataInicio
+<http://rpcw.di.uminho.pt/festas&romarias#dataInicio> rdf:type owl:DatatypeProperty ;
+                                                      rdfs:domain <http://rpcw.di.uminho.pt/festas&romarias#Festa> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#descricao
+<http://rpcw.di.uminho.pt/festas&romarias#descricao> rdf:type owl:DatatypeProperty ;
+                                                     rdfs:domain <http://rpcw.di.uminho.pt/festas&romarias#Festa> .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#nome
+<http://rpcw.di.uminho.pt/festas&romarias#nome> rdf:type owl:DatatypeProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://rpcw.di.uminho.pt/festas&romarias#Concelho
+<http://rpcw.di.uminho.pt/festas&romarias#Concelho> rdf:type owl:Class .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#Distrito
+<http://rpcw.di.uminho.pt/festas&romarias#Distrito> rdf:type owl:Class .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#Festa
+<http://rpcw.di.uminho.pt/festas&romarias#Festa> rdf:type owl:Class .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#Freguesia
+<http://rpcw.di.uminho.pt/festas&romarias#Freguesia> rdf:type owl:Class .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#Regiao
+<http://rpcw.di.uminho.pt/festas&romarias#Regiao> rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://rpcw.di.uminho.pt/festas&romarias#Aveiro
+<http://rpcw.di.uminho.pt/festas&romarias#Aveiro> rdf:type owl:NamedIndividual ,
+                                                           <http://rpcw.di.uminho.pt/festas&romarias#Distrito> ;
+                                                  <http://rpcw.di.uminho.pt/festas&romarias#nome> "Aveiro" .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#Aveiro1
+<http://rpcw.di.uminho.pt/festas&romarias#Aveiro1> rdf:type owl:NamedIndividual ,
+                                                            <http://rpcw.di.uminho.pt/festas&romarias#Festa> ;
+                                                   <http://rpcw.di.uminho.pt/festas&romarias#ocorreDistrito> <http://rpcw.di.uminho.pt/festas&romarias#Aveiro> ;
+                                                   <http://rpcw.di.uminho.pt/festas&romarias#dataFim> "" ;
+                                                   <http://rpcw.di.uminho.pt/festas&romarias#dataInicio> "06-01-2024" ;
+                                                   <http://rpcw.di.uminho.pt/festas&romarias#descricao> "Com pequeno auto teatral e leilão das ofertas" ;
+                                                   <http://rpcw.di.uminho.pt/festas&romarias#nome> "Cortejo dos Reis" .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#BeiraLitoral
+<http://rpcw.di.uminho.pt/festas&romarias#BeiraLitoral> rdf:type owl:NamedIndividual ,
+                                                                 <http://rpcw.di.uminho.pt/festas&romarias#Regiao> ;
+                                                        <http://rpcw.di.uminho.pt/festas&romarias#regiaoTemFesta> <http://rpcw.di.uminho.pt/festas&romarias#Aveiro1> ;
+                                                        <http://rpcw.di.uminho.pt/festas&romarias#temDistrito> <http://rpcw.di.uminho.pt/festas&romarias#Aveiro> ;
+                                                        <http://rpcw.di.uminho.pt/festas&romarias#nome> "Beira Litoral" .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#SeverDoVouga
+<http://rpcw.di.uminho.pt/festas&romarias#SeverDoVouga> rdf:type owl:NamedIndividual ,
+                                                                 <http://rpcw.di.uminho.pt/festas&romarias#Concelho> ;
+                                                        <http://rpcw.di.uminho.pt/festas&romarias#concelhoTemFesta> <http://rpcw.di.uminho.pt/festas&romarias#Aveiro1> ;
+                                                        <http://rpcw.di.uminho.pt/festas&romarias#pertenceDistrito> <http://rpcw.di.uminho.pt/festas&romarias#Aveiro> ;
+                                                        <http://rpcw.di.uminho.pt/festas&romarias#temFreguesia> <http://rpcw.di.uminho.pt/festas&romarias#Talhadas> ;
+                                                        <http://rpcw.di.uminho.pt/festas&romarias#nome> "Sever do Vouga" .
+
+
+###  http://rpcw.di.uminho.pt/festas&romarias#Talhadas
+<http://rpcw.di.uminho.pt/festas&romarias#Talhadas> rdf:type owl:NamedIndividual ,
+                                                             <http://rpcw.di.uminho.pt/festas&romarias#Freguesia> ;
+                                                    <http://rpcw.di.uminho.pt/festas&romarias#freguesiaTemFesta> <http://rpcw.di.uminho.pt/festas&romarias#Aveiro1> ;
+                                                    <http://rpcw.di.uminho.pt/festas&romarias#nome> "Talhadas" .
+
+
+###  Generated by the OWL API (version 4.5.26.2023-07-17T20:34:13Z) https://github.com/owlcs/owlapi

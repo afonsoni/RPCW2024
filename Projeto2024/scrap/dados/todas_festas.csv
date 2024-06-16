@@ -1,0 +1,392 @@
+festa_id,nome,data_inicio,data_fim,freguesia,concelho,distrito,descricao,regiao
+1,Cortejo dos Reis,06/01/2024,,Talhadas,Sever do Vouga,Aveiro,Com pequeno auto teatral e leilão das ofertas,beira_litoral
+2,Festa de S. Gonçalinho (S. Gonçalo de Amarante,10/01/2024,,,Aveiro,Aveiro,"Casamenteiro das velhas): junto à capela e do alto da mesma, lançamento de cavacas ao povo. Dança dos mancos, pequena comédia interpretada por homens. Música e danças pelas ruas.",beira_litoral
+3,Festas de Nossa Senhora da Purificação e de S. Brás,04/02/2024,,"União das freguesias de Vila Chã, Codal e Vila Cova de Perrinho",Vale de Cambra,Aveiro,"Procissão das velas dedicada à Senhora da Purificação ou Senhora das Candeias, devoção muito expandida pelo país, cujo dia é o 2 de Fevereiro. Feira de gastronomia e dos grelos.",beira_litoral
+4,Romaria dos Santos Mártires,07/01/2024,,União das freguesias de Travassô e Óis da Ribeira,Águeda,Aveiro,"Procissão dos Nus, antigamente composta por fiéis amortalhados em cumprimento das suas promessas. No dia seguinte, nova procissão, em que as crianças passam por debaixo do andor de Santa Clara, para não se atrasarem no falar.",beira_litoral
+5,Festa das Fogaceiras,20/01/2024,,,Santa Maria da Feira,Aveiro,"Feriado municipal: importantíssima romaria celebrando S. Sebastião. Na procissão, meninas de branco levam as fogaças à cabeça.",beira_litoral
+6,Festa de S. Sebastião,20/01/2024,,Avanca,Estarreja,Aveiro,,beira_litoral
+7,cortejo muito concorrido,13/02/2024,,Vale de Ílhavo,Ílhavo,Aveiro,"Onde pontificam os cardadores, rapazes solteiros mascarados com longo nariz e enormes cabeleiras coloridas, que se aproximam das moças para as “cardar” (abraçar e apalpar).",beira_litoral
+8,corso com escolas de samba,13/02/2024,,,Ovar,Aveiro,Imitação do Carnaval brasileiro,beira_litoral
+9,desfile com escolas de samba,13/02/2024,,,Estarreja,Aveiro,Batalha de Flores,beira_litoral
+10,Carnaval,13/02/2024,,Brasfemes,Coimbra,Coimbra,,beira_litoral
+11,carnaval,13/02/2024,,Buarcos e São Julião,Figueira da Foz,Coimbra,,beira_litoral
+12,procissão dos passos,25/02/2024,,,Ovar,Aveiro,,beira_litoral
+13,Romaria das Almas da Areosa,07/04/2024,,Aguada de Cima,Águeda,Aveiro,Procissão dos Romeiros em direcção à Igreja Matriz.,beira_litoral
+14,Festa de Nossa Senhora dos Milagres,07/04/2024,,Cernache,Coimbra,Coimbra,,beira_litoral
+15,Festa da Rainha Santa Mafalda,02/05/2024,,,Arouca,Aveiro,"Filha de D. Sancho I, é a padroeira de Arouca, pelo que se justifica que o sei dia seja o feriado municipal. Procissão solene.",beira_litoral
+16,Festas de Santa Joana ou festas da cidade,12/05/2024,,,Aveiro,Aveiro,"Era filha de D. Afonso V e ficou conhecida pela sua extrema bondade. Procissão dos Irmãos de Santa Joana e missa solene na Sé. À tarde, procissão de Santa Joana com a irmandade vestida à época. Desfile de barcos moliceiros.",beira_litoral
+17,Festa do Espírito Santo,19/05/2024,,Espírito Santo,Soure,Coimbra,,beira_litoral
+18,Festa de S. Sebastião,02/06/2024,,,Águeda,Aveiro,,beira_litoral
+19,Festa de S. João,24/06/2024,,Tocha,Cantanhede,Coimbra,Banho santo.,beira_litoral
+20,Feira anual de S. João,24/06/2024,,,Lousã,Coimbra,Feriado municipal.,beira_litoral
+21,Festa de S. João,24/06/2024,,,Figueira da Foz,Coimbra,Banho santo.,beira_litoral
+22,Festa e feira de S. Pedro,29/06/2024,,Palhaça,Oliveira do Bairro,Aveiro,,beira_litoral
+23,Festas da Rainha Santa,07/06/2024,,,Coimbra,Coimbra,"Procissão de penitência e procissão de Louvor. À saída da igreja, o andor que transporta a urna recebe uma chuva de pétalas de rosa, alusão ao célebre milagre das rosas. Parte profana com múltiplas manifestações de concertos musicais populares e espectáculos.",beira_litoral
+24,Romaria de S. Tomé (protector dos animais e das colheitas) e S. Tiago,25/07/2024,,Ançã,Cantanhede,Coimbra,"Cortejo desde a casa do juiz da festa até à Capela de S. Bento. Seguem a cavalo o juiz e o anjo, um menino vestido de menina. Bênção do gado.",beira_litoral
+25,Festas da Padroeira,28/07/2024,,,Pombal,Leiria,,beira_litoral
+26,Festa de Nossa Senhora de la Salette,04/08/2024,,,Oliveira de Azeméis,Aveiro,Procissão do Triunfo descendo do santuário em direcção à vila.,beira_litoral
+27,Festa de Nossa Senhora da Boa Viagem,04/08/2024,,Esmoriz,Ovar,Aveiro,Procissão com bênção do mar.,beira_litoral
+28,Romaria do Divino Senhor da Serra,15/08/2024,,União das freguesias de Semide e Rio Vide,Miranda do Corvo,Coimbra,,beira_litoral
+29,Festa de Nossa Senhora da Saúde,15/08/2024,,Fermentelos,Águeda,Aveiro,"Procissão das Velas, seguida de fogo-preso.",beira_litoral
+30,Senhora do Pranto,15/08/2024,,Dornes,Ferreira do Zêzere,Santarém,,beira_litoral
+31,Senhora da Saúde,15/08/2024,,,Vale de Cambra,Aveiro,,beira_litoral
+32,Senhora da Piedade,01/09/2024,,Furadouro,Ovar,Aveiro,Festa dos pescadores.,beira_litoral
+33,Festa do Senhor do Calvário,01/09/2024,,Macieira de Cambra,Vale de Cambra,Aveiro,Que se prolongam até ao dia 8 em que se celebra Nossa Senhora da Natividade.,beira_litoral
+34,Romaria de S. Paio da Torreira,08/09/2024,,Torreira,Murtosa,Aveiro,Rusgas e danças populares na noitada. Regata de moliceiros.,beira_litoral
+35,Festa municipal,08/09/2024,,,Montemor-o-Velho,Coimbra,Feira anual. Feira do cavalo.,beira_litoral
+36,Festas de Nossa Senhora do Pranto,15/09/2024,,Podentes,Penela,Coimbra,"Círio de Podentes à Senhora do Pranto, em Dores, Ferreira do Zêzere.",beira_litoral
+37,Festas de S. Mateus (romaria e feira franca),21/09/2024,,,Soure,Coimbra,Grande romaria que reune no Monte de S. Mateus muito povo das redondezas. Feira da madeira e do artesanato. O dia 21 é feriado municipal. Piquenique popular no parque de merendas.,beira_litoral
+38,Festa da Senhora do Rosário,06/10/2024,,Aguada de Cima,Águeda,Aveiro,Com bodo de tremoços,beira_litoral
+39,Romaria de Nossa Senhora das Areias,06/10/2024,,São Jacinto,Aveiro,Aveiro,"Povoação de pescadores, a festa foi apontada para a época em que haviam regressado da pesca do bacalhau na Terra Nova.",beira_litoral
+40,S. Martinho,11/11/2024,,Mouquim,Albergaria-a-Velha,Aveiro,,beira_litoral
+41,Senhora da Conceição,08/12/2024,,Oiã,Oliveira do Bairro,Aveiro,,beira_litoral
+42,Santa Luzia,13/12/2024,,União das freguesias de Beduído e Veiros,Estarreja,Aveiro,,beira_litoral
+43,Cortejo dos Reis Magos,22/12/2024,,União das freguesias de Canelas e Fermelã,Estarreja,Aveiro,,beira_litoral
+44,carnaval,13/02/2024,,Samora Correia,Benavente,Santarém,,ribatejo
+45,carnaval,13/02/2024,,"União das freguesias de Malhou, Louriceira e Espinheiro",Alcanena,Santarém,Corso,ribatejo
+46,Feira de S. Matias,02/06/2024,,,Abrantes,Santarém,Produtos regionais e artesanato. Festival de gastronomia durante as semanas que dura a feira.,ribatejo
+47,Festas de S. José,19/03/2024,,,Santarém,Santarém,"Além da componente religiosa com procissão, eventos taurinos e cortejo etnográfico.",ribatejo
+48,Festa da Aleluia,31/03/2024,,Cem Soldos,Tomar,Santarém,"Celebração da ressurreição de Nosso Senhor, com a manifestação popular das aleluias, flores amarelas ornamentando canas em forma de cruz que, no final do cortejo, são destruídas simbolizando a matança dos judeus, nome genérico que se dá a toda esta festa da Aleluia.",ribatejo
+49,Procissão dos Passos do Senhor,11/02/2024,,,Mação,Santarém,,ribatejo
+50,Círio dos marítimos à Senhora da Atalaia,01/04/2024,,,Alcochete,Setúbal,,ribatejo
+51,Festa e feira do Santíssimo Milagre,07/04/2024,,,Santarém,Santarém,Procissão solene.,ribatejo
+52,Festa dos Fazendeiros,07/04/2024,,Pontével,Cartaxo,Santarém,Cortejo etnográfico de grande impacto.,ribatejo
+53,Romaria do Senhor da Boa Morte,09/05/2024,,,Vila Franca de Xira,Lisboa,,ribatejo
+54,Romaria do Espírito Santo,19/05/2024,,Dornes,Ferreira do Zêzere,Santarém,Círios das freguesias vizinhas.,ribatejo
+55,Festa do Espírito Santo,19/05/2024,,Carregueiros,Tomar,Santarém,"Coroação do imperador, cortejo das fogaças, bodo.",ribatejo
+56,Festa do Divino Espírito Santo,19/05/2024,,Meia Via,Torres Novas,Santarém,Cortejo dos tabuleiros. Distribuição do bodo.,ribatejo
+57,Festa do Bodo ou do Divino Espírito Santo,06/06/2024,,Azinhaga,Golegã,Santarém,"Cortejo de recolha do pão, bênção do bodo e sua distribuição. Celebrações religiosas. Largadas de touros.",ribatejo
+58,Feira Nacional de Agricultura,10/06/2024,,,Santarém,Santarém,Mostras gastronómicas. Artesanato de todo o país. Exposição de máquinas agrícolas.,ribatejo
+59,Festas de S. Pedro,29/06/2024,,,Montijo,Setúbal,,ribatejo
+60,Festa dos Tabuleiros,14/07/2024,,,Tomar,Santarém,"Celebrando o Divino Espírito Santo, mas não coincidente com a data litúrgica. Desfile monumental das oferendas dispostas em tabuleiros, com a respectiva bênção. Além deste, há outros cortejos: o das Coroas e o do Mordomo, que exibe os bois do Espírito Santo. As ruas populares são ornamentadas com milhares de flores de papel. A festa termina com o bodo, oferta de alimentos à população.",ribatejo
+61,Festa de Nossa Senhora do Castelo,08/06/2024,,,Coruche,Santarém,"Festa religiosa. Eventos taurinos, com touradas e largadas de touros. Cortejo etnográfico e festival de folclore.",ribatejo
+62,Círios à Senhora da Atalaia,25/08/2024,,União das freguesias de Atalaia e Alto Estanqueiro-Jardia,Montijo,Setúbal,"Vindos de Olhos de Água, Quinta do Anjo, Azóia e Carregueira. À chegada, cada círio realiza uma procissão que começa na igreja e dão a volta no cruzeiro. Pernoitam nas casas dos círios. à noite, bailaricos com os “gaiteiros”, assim designados mesmo agora que já se não ouvem as gaitas-de-foles, mas sim os acordeonistas. No último dia, arrematação das bandeiras, cujo produto servirá para suportar as despesas da festa do próximo ano.",ribatejo
+63,Círio à Senhora da Piedade,01/09/2024,,,Tomar,Santarém,,ribatejo
+64,Senhora da Boa Viagem,08/09/2024,,,Moita,Setúbal,Largadas e corridas de touros; banquete colectivo na tarde do fogareiro; procissão com bênção dos barcos.,ribatejo
+65,feira anual,06/10/2024,,,Vila Franca de Xira,Lisboa,,ribatejo
+66,Feira de Santa Iria,20/10/2024,,,Tomar,Santarém,"O momento mais importante ocorre na sexta-feira anterior, em que se invoca o martírio de Santa Iria. Procissão e lançamento de pétalas ao Rio Nabão.",ribatejo
+67,Festival Nacional de Gastronomia,10/10/2024,,,Santarém,Santarém,Mostra de pratos típicos de todas as regiões do país. Tasquinhas e provas de vinho.,ribatejo
+68,Feira dos Santos,01/11/2024,,,Mação,Santarém,A mais importante festividade desta vila,ribatejo
+69,Feira de Todos os Santos,01/11/2024,,,Cartaxo,Santarém,"Abertura da água-pé, mostra de vinhos e gastronomia. Expo-Cartaxo.",ribatejo
+70,Festa de S. Martinho,11/11/2024,,,Golegã,Santarém,"Também conhecida por Feira do Cavalo, que se prolonga por três semanas, com exibição de cavalos, cavaleiros, amazonas e charretes. Concursos hípicos. Mostra do Puro Sangue Lusitano. No dia 11, cortejo e bênção dos romeiros de S. Martinho, a cavalo.",ribatejo
+71,Festa de Nossa Senhora da Conceição,08/12/2024,,Sabacheira,Tomar,Santarém,"Missa, procissão e leilão das promessas",ribatejo
+72,Festa de S. Sebastião,20/01/2024,,União das freguesias de Gondiães e Vilar de Cunhas,Cabeceiras de Basto,Braga,"Santo contra a fome, a peste e a guerra. Procissão, bênção dos alimentos e bodo.",minho
+73,Carnaval ou Enterro do Pai Velho,13/02/2024,,Lindoso,Ponte da Barca,Viana do Castelo,"Com cortejo à moda antiga, em carros de bois, no belo cenário do castelo medieval. Realizam-se pequenos entremezes teatrais ao longo do trajecto. Bailes populares ao som de concertinas. Terça-feira Gorda à meia-noite, testamento e queima do Pai Velho.",minho
+74,Procissão dos Passos,24/03/2024,,Tamel (São Veríssimo),Barcelos,Braga,Com interesse especial devido às representações teatrais sobre a Paixão do Senhor,minho
+75,Procissão dos Passos,24/03/2024,,,Braga,Braga,,minho
+76,Procissão dos Passos,24/03/2024,,,Barcelos,Braga,,minho
+77,auto do Enterro e crucifixação do Senhor,24/03/2024,,"União das freguesias de Sande, Vilarinho, Barros e Gomide",Vila Verde,Braga,Com centenas de crianças representando figuras bíblicas,minho
+78,Procissão dos Passos,24/03/2024,,Rates,Póvoa de Varzim,Porto,,minho
+79,Romaria do Bom Jesus de Fão,07/04/2024,,União das freguesias de Apúlia e Fão,Esposende,Braga,,minho
+80,Romaria do Santo do Monte,07/04/2024,,Louro,Vila Nova de Famalicão,Braga,,minho
+81,Romaria do Bom Jesus,08/04/2024,,Não,Esposende,Braga,Festival de fanfarras.,minho
+82,Romaria de Nossa Senhora da Cabeça,09/04/2024,,"União das freguesias de Valença, Cristelo Covo e Arão",Valença,Viana do Castelo,"Após o compasso pascal, cerimónia do Lanço da Cruz. Procissão no rio Minho até à banda de além, onde a esperam os devotos espanhóis.",minho
+83,Festa das Cruzes,03/05/2024,,,Barcelos,Braga,Com imponente procissão da Invenção da Santa Cruz. Corrida de cavalos. Cortejo etnográfico. Batalha de flores. Fogo de artifício na ponte medieval sobre o rio Cávado,minho
+84,ruas atapetadas de flores por onde passa a procissão,03/05/2024,,Serzedelo,Guimarães,Braga,"No trajecto encontram-se levantadas 16 cruzes ornamentadas com flores, junto às quais se entoam cânticos religiosos",minho
+85,Festa da Senhora da Rosa,02/05/2024,,Vila Franca,Viana do Castelo,Viana do Castelo,"Cortejo das rosas, em que as mordomas se apresentam ricamente vestidas à forma regional e transportando à cabeça monumentais cestos floridos, para oferecer a Nossa Senhora. O mesmo na procissão religiosa.",minho
+86,Festa do Senhor dos Aflitos,03/05/2024,,Nespereira,Guimarães,Braga,"Procissão do clamor, em que se entoam cânticos religiosos pedindo protecção para as colheitas.",minho
+87,Romaria da Senhora do Amparo,03/05/2024,,União das freguesias de Cardielos e Serreleis,Viana do Castelo,Viana do Castelo,Com as mordomas em trajos regionais. Arraial popular.,minho
+88,Festa da Santa Cruz ou dos Andores Floridos,05/05/2024,,Alvarães,Viana do Castelo,Viana do Castelo,"Os andores são ricamente ornamentados com flores, tal como as cruzes de granito por onde passa a procissão. Tapetes de flores pelos caminhos.",minho
+89,Romaria de S. Gonçalo,01/06/2024,,,Amarante,Porto,Santo considerado casamenteiro pelas moças casadoiras da região. Procissão solene. Arraial com exibição de grupos de Zés-Pereiras.,minho
+90,peregrinação à Senhora do Sameiro,02/06/2024,,,Braga,Braga,,minho
+91,Festa do Espírito Santo,19/05/2024,,Barrosas,Felgueiras,Porto,"Cortejo de oferendas. Na 2ª feira, procissão integrando os cânticos religiosos denominados “clamores”.",minho
+92,Romaria da Senhora da Encarnação,19/05/2024,,União das freguesias de Torre e Vila Mou,Viana do Castelo,Viana do Castelo,Procissão com o “coro das virgens”. Cortejo das mordomas com os seus trajos regionais. No cortejo e na procissão passam debaixo dos tradicionais arcos de romaria. Arraial festivo.,minho
+93,Festa da Senhora da Rocha,26/05/2024,,"União das freguesias de Nogueira, Meixedo e Vilar de Murteda",Viana do Castelo,Viana do Castelo,"Moças vestidas em trajos regionais. Na procissão, andor com um enorme bolo, posteriormente benzido e distribuído ao povo.",minho
+94,Romaria de Santo António,13/06/2024,,Mixões,Vila Verde,Braga,Arraial nocturno com fogueiras. Procissão. Os lavradores trazem os seus gados que dão as voltas rituais à capela do santo.,minho
+95,Festas de Santo António,13/06/2024,,,Amares,Braga,,minho
+96,Festas de Santo António,13/06/2024,,,Vila Verde,Braga,,minho
+97,Festas de Santo António,13/06/2024,,,Vila Nova de Famalicão,Braga,"Na noite da véspera, marchas antoninas. Salto ritual das fogueiras de Santo António. Concurso de cascatas. Rusgas populares. Junto à capela do taumaturgo, depois da missa de festa, distribuição do pão bento de Santo António.",minho
+98,Ronda da Lapinha,03/06/2024,,União das freguesias de Serzedo e Calvos,Guimarães,Braga,"Romaria que inclui extensa procissão, a ronda, que desce à cidade, visita a Senhora da Oliveira e regressa depois ao santuário de origem.",minho
+99,Festividades de S. João,24/06/2024,,,Braga,Braga,Rusgas nocturnas pela cidade a caminho da capelinha de S. João. Carro e dança dos pastores. Carro das ervas. Dança do Rei David. Procissão no dia 24.,minho
+100,Romaria de S. Torcato,07/07/2024,,São Torcato,Guimarães,Braga,,minho
+101,Romaria de S. Bento das Peras,14/07/2024,,Vizela,Guimarães,Braga,,minho
+102,Romaria de Nossa Senhora de Antime,14/07/2024,,,Fafe,Braga,,minho
+103,Santa Maria Madalena ou Clamor da Roda,21/07/2024,,Vale de Bouro,Celorico de Basto,Braga,,minho
+104,Romaria da Senhora do Minho,21/07/2024,,Alto da Serra de Arga,Viana do Castelo,Viana do Castelo,,minho
+105,Festas do Senhor do Cruzeiro e das Necessidades,04/07/2024,,Lanheses,Viana do Castelo,Viana do Castelo,,minho
+106,Festa de Nossa Senhora das Neves,05/08/2024,,Neves,Viana do Castelo,Viana do Castelo,"Procissão solene. Auto popular de Floripes ou Comédia do Imperador Carlos Magno e dos Doze Pares de França, de origem carolíngia.",minho
+107,Romaria de Nossa Senhora das Neves da Lagoa,08/06/2024,,Lagoa,Fafe,Braga,,minho
+108,Romaria da Senhora Aparecida,15/08/2024,,Balugães,Barcelos,Braga,Cumprimento de promessas e procissão solene.,minho
+109,Senhora das Dores,15/08/2024,,Soajo,Arcos de Valdevez,Viana do Castelo,,minho
+110,Senhora da Abadia,15/08/2024,,Bouro (Santa Maria),Amares,Braga,Procissão solene.,minho
+111,Romaria da Senhora da Agonia,20/08/2024,,,Viana do Castelo,Viana do Castelo,"Procissão solene. Cortejo etnográfico. Bombos, gigantones, Zés-Pereiras. Desfile das mordomas, moças solteiras exibindo os seus ouros de família ao peito. Festa do Traje. Procissão no mar. Fogo de artifício no rio Lima.",minho
+112,Romaria de S. Bartolomeu do Mar,24/08/2024,,Bartolomeu do Mar,Esposende,Braga,Banho santo. Procissão na praia. Oferendas de galinhas pretas.,minho
+113,Romaria de S. Bartolomeu,24/08/2024,,,Ponte da Barca,Viana do Castelo,Rusgas e bailes populares durante a noitada. Cantares ao desafio. Cortejo etnográfico.,minho
+114,Romaria de S. João de Arga,29/08/2024,,"União das freguesias de Arga (Baixo, Cima e São João)",Caminha,Viana do Castelo,"Comemorativa da morte do Santo Precursor. Rusgas populares, cantares ao desafio e bailes populares durante a noitada.",minho
+115,Senhora da Guia,18/08/2024,,União das freguesias de Apúlia e Fão,Esposende,Braga,,minho
+116,peregrinação estatutária à Senhora do Sameiro,25/08/2024,,,Braga,Braga,,minho
+117,Festa de Santa Justa,25/08/2024,,União das freguesias de Negreiros e Chavão,Barcelos,Braga,Tradição pitoresca: cortejo dos vasos transportados à cabeça das moças com seus trajes regionais.,minho
+118,Romaria da Senhora da Peneda,08/09/2024,,Gavieira,Arcos de Valdevez,Viana do Castelo,Noitada com bailes populares ao som das concertinas. Procissão desce o monumental escadório e regressa ao santuário.,minho
+119,Festa de S. Miguel ou Festa das Colheitas,20/09/2024,,,Cabeceiras de Basto,Braga,Desfile de gigantones e Zés-Pereiras.,minho
+120,Senhora da Saúde,01/09/2024,,Lanhelas,Caminha,Viana do Castelo,Procissão solene. Especialidade gastronómica: jantar das solhas.,minho
+121,Senhora da Graça,01/09/2024,,,Mondim de Basto,Vila Real,,minho
+122,Romaria de Nossa Senhora do Porto de Ave,01/09/2024,,Porto de Ave,Póvoa de Lanhoso,Braga,Procissão das velas.,minho
+123,Feira Grande de S. Miguel,29/09/2024,,,Vila Nova de Famalicão,Braga,Origem medieval. Desfolhada tradicional com concertinas e cantares ao desafio. Garraiada. Concurso de atrelagens.,minho
+124,Festas Nicolinas,02/12/2024,,,Guimarães,Braga,"Dedicadas a S. Nicolau, patrono dos estudantes. Cortejo do Pinheiro. Ceias nicolinas.",minho
+125,Festa de Santa Luzia,13/12/2024,,,Guimarães,Braga,"Venda de doces denominados sardões e passarinhas, com óbvias conotações eróticas, oferecidas reciprocamente pelos rapazes e pelas moças.",minho
+126,Festa de Santa Luzia e feira dos capões,13/12/2024,,Freamunde,Paços de Ferreira,Porto,,minho
+127,Romaria de S. Silvestre,31/12/2024,,União das freguesias de Cardielos e Serreleis,Viana do Castelo,Viana do Castelo,Alvorada musical.,minho
+128,Festa de Nossa Senhora das Candeias,02/02/2024,,,Mourão,Évora,"A parte profana inclui corrida de touros, um dos quais, o touro de Nossa Senhora, será morto depois de lidado e servirá para a refeição comunitária que tem lugar no arraial, montado no jardim. Feriado municipal.",alentejo
+129,actuação das “brincas”,13/02/2024,,,Évora,Évora,"Grupos músico-teatrais que percorrem localidades ao redor, correspondentes às cègadas e às contradanças de entrudo",alentejo
+130,carnaval com actuação das contradanças,13/02/2024,,Amareleja,Moura,Beja,,alentejo
+131,carnaval com actuação de contradanças,13/02/2024,,Granja,Mourão,Évora,,alentejo
+132,bênção do gado e cortejo da aleluia com campainhas e chocalhos pela ruas,30/03/2024,,,Castelo de Vide,Portalegre,Após a missa,alentejo
+133,Procissão de Ramos,24/03/2024,,,Castelo de Vide,Portalegre,,alentejo
+134,após a missa de aleluia,30/03/2024,,,Castelo de Vide,Portalegre,"À noite, o povo percorre as ruas tocando campainhas e chocalhos, com acompanhamento de banda filarmónica",alentejo
+135,Romaria da Senhora de Guadalupe,31/03/2024,,,Serpa,Beja,Procissão de S. Gens em direcção à vila. Cortejo etnográfico. 2ª feira: procissão de regresso à capela de S. Gens,alentejo
+136,Romaria da Senhora dos Prazeres,07/04/2024,,,Nisa,Portalegre,,alentejo
+137,Romaria da Senhora da Boa Nova,07/04/2024,,Terena (São Pedro),Alandroal,Évora,,alentejo
+138,Romaria da Senhora de Aires,14/04/2024,,,Viana do Alentejo,Évora,,alentejo
+139,Festa das Cruzes,03/05/2024,,Aldeia Nova de S. Bento,Serpa,Beja,"Dentro de casa, na divisão que dá para a rua, é colocada a Santa Cruz e aí se reúnem as famílias rezando e entoando cânticos religiosos. Grupos corais percorrem as ruas cantando e “visitando as cruzes”.",alentejo
+140,Festa da Santa Cruz,03/05/2024,,Barrada,Reguengos de Monsaraz,Évora,,alentejo
+141,Romaria do Senhor dos Aflitos,03/05/2024,,Fortios,Portalegre,Portalegre,"Depois da procissão, leilão das fogaças de oferendas",alentejo
+142,Festas de Santo António,13/06/2024,,,Reguengos de Monsaraz,Évora,Procissão e arraial. Baile em redor das fogueiras.,alentejo
+143,Festa de S. João,24/06/2024,,,Castelo de Vide,Portalegre,Arraial em volta dos mastros floridos.,alentejo
+144,Feira-festa de S. João,24/06/2024,,,Évora,Évora,,alentejo
+145,Festas da Rainha Santa Isabel,04/07/2024,,,Estremoz,Évora,,alentejo
+146,Senhora das Brotas,11/08/2024,,Brotas,Mora,Évora,,alentejo
+147,Senhora da Neves,25/08/2024,,"União das freguesias de Crato e Mártires, Flor da Rosa e Vale do Peso",Crato,Portalegre,,alentejo
+148,Festas de campo Maior ou Festas do Povo,01/09/2024,,,Campo Maior,Portalegre,Ruas cobertas de flores de papel,alentejo
+149,Romaria da Senhora da Cola,08/09/2024,,,Ourique,Beja,"Cantos ao baldão, acompanhados à viola campaniça",alentejo
+150,Senhora dos Milagres,01/09/2024,,Assumar,Monforte,Portalegre,,alentejo
+151,Romaria do Senhor Jesus da Piedade,20/09/2024,,,Elvas,Portalegre,,alentejo
+152,Romaria da Senhora de Aires,29/09/2024,,,Viana do Alentejo,Évora,,alentejo
+153,Festa e feira de S. Pedro,01/11/2024,,,Odemira,Beja,,alentejo
+154,Feira dos Santos,01/11/2024,,,Alvito,Beja,,alentejo
+155,Festa de Santo André,17/11/2024,,,Estremoz,Évora,,alentejo
+156,Festa da Imaculada Conceição,08/12/2024,,,Vila Viçosa,Évora,,alentejo
+157,Festa de Nossa Senhora da Conceição,08/12/2024,,,Barrancos,Beja,"Na procissão, cantares em louvor de Nossa Senhora",alentejo
+158,Festa de Nossa Senhora da Conceição,08/12/2024,,,Alandroal,Évora,,alentejo
+159,Fogueira de Natal,24/12/2024,,,Barrancos,Beja,,alentejo
+160,carnaval,13/02/2024,,Quarteira,Loulé,Faro,,algarve
+161,carnaval,13/02/2024,,São Bartolomeu de Messines,Silves,Faro,Corso,algarve
+162,Procissão dos Ramos,24/03/2024,,,Tavira,Faro,,algarve
+163,Festa das tochas floridas,31/03/2024,,,São Brás de Alportel,Faro,Cortejo que percorre alegremente as ruas até à igreja matriz,algarve
+164,Romaria da Senhora da Piedade ou da Mãe Soberana,14/04/2024,,,Loulé,Faro,"Regresso da imagem desde Loulé até ao santuário, sendo o andor transportado a correr pela ladeira acima",algarve
+165,Festa da Fonte Grande,01/05/2024,,Alte,Loulé,Faro,"Cortejo de oferendas, designado por cavalhada.",algarve
+166,Festa da Espiga,09/05/2024,,Salir,Loulé,Faro,Cortejo etnográfico.,algarve
+167,Festa de Nossa Senhora do Carmo,16/07/2024,,Fuzeta,Olhão,Faro,,algarve
+168,Senhora da Rocha,04/08/2024,,Porches,Lagoa,Faro,,algarve
+169,Senhora da Orada,11/08/2024,,,Albufeira,Faro,,algarve
+170,Senhora dos Mártires,15/08/2024,,,Castro Marim,Faro,,algarve
+171,Nossa Senhora de Alva,01/09/2024,,,Aljezur,Faro,,algarve
+172,Senhora dos Aflitos,08/09/2024,,Armação de Pêra,Silves,Faro,,algarve
+173,S. Gonçalo de Lagos,27/10/2024,,,Lagos,Faro,,algarve
+174,Festa de S. Luís,01/11/2024,,,Aljezur,Faro,Bênção de gado,algarve
+175,Festa de S. Martinho,11/11/2024,,,Portimão,Faro,,algarve
+176,Festa da Senhora da Conceição,08/12/2024,,,Monchique,Faro,,algarve
+177,Festas da Casa de Deus Menino,25/12/2024,,,São Brás de Alportel,Faro,,algarve
+178,Festa do Menino Jesus,01/01/2024,,Lalim,Lamego,Viseu,,beira_alta
+179,Festa dos Reis Magos,06/01/2024,,Palhaça,Oliveira de Frades,Viseu,Com auto popular,beira_alta
+180,Carnaval,13/02/2024,,Cabanas de Viriato,Carregal do Sal,Viseu,"Dança dos cus, enorme cortejo, sempre com a mesma música, em duas filas, as quais, em determinada altura coreográfica, se aproximam e se tocam nos ditos.",beira_alta
+181,carnaval,13/02/2024,,Lagares,Oliveira do Hospital,Coimbra,,beira_alta
+182,Queima do Judas,31/03/2024,,Lalim,Lamego,Viseu,Antecedida pela leitura do testamento,beira_alta
+183,Festa religiosa da Santa Cruz,03/05/2024,,,Mêda,Guarda,Os pastores trazem os seus rebanhos e dão as três voltas rituais à capelinha,beira_alta
+184,Feira da Santa Cruz,03/05/2024,,,Lamego,Viseu,"Inclui corrida de cavalos, designada por “passo-travadinho”",beira_alta
+185,Romaria da Santa Cruz,03/05/2024,,,Sernancelhe,Viseu,Os pastores levam os seus rebanhos para a tradicional bênção do gado na altura da procissão,beira_alta
+186,Romaria do Senhor do Mundo,09/05/2024,,,Mortágua,Viseu,"Na respectiva capela, arredores da vila. Arraial popular.",beira_alta
+187,Festa da Senhora da Saúde,09/05/2024,,,São Pedro do Sul,Viseu,A procissão dirige-se aos campos para a bênção dos campos e o povo apanha o raminho da espiga.,beira_alta
+188,Festa do Divino Espírito Santo,19/05/2024,,Poço do Canto,Mêda,Guarda,"Da torre da igreja são lançados os “pãezinhos bentos” para o povo, que os recolhe.",beira_alta
+189,Romaria da Senhora da Lapa,19/05/2024,,Quintela,Sernancelhe,Viseu,Um dos mais importantes santuários marianos. A passagem estreita do grande penedo é obrigatória para os romeiros no cumprimento das suas promessas.,beira_alta
+190,Romaria de Santo António dos Cabaços,13/06/2024,,Serra dos Cabaços,Mangualde,Viseu,,beira_alta
+191,Cavalhada de Vil de Moinhos que se dirige a Viseu e se exibe junto à capela de S. João da Ribeira,24/06/2024,,Vil de Moinhos,Viseu,Viseu,"Comemoração de uma vitorio no diferendo entre os moleiros da povoação sobre os agricultores de Viseu no séc. XVII. Regresso a Vil de Moinhos, nova cavalhada e arraial, com a queima do pinheiro.",beira_alta
+192,Feira de S. João,24/06/2024,,,Guarda,Guarda,Bailes populares em redor do mastro e das fogueiras de S. João.,beira_alta
+193,Romaria da Senhora das Preces,01/07/2024,,Aldeia das Dez,Oliveira do Hospital,Coimbra,,beira_alta
+194,Romaria de S. Macário,25/07/2024,,Sul,São Pedro do Sul,Viseu,,beira_alta
+195,Senhora do Castelo,15/08/2024,,,Vouzela,Viseu,,beira_alta
+196,Festa de Nossa Senhora dos Milagres,15/08/2024,,Laceiras,Carregal do Sal,Viseu,"Missa e procissão. À tarde, feira anual.",beira_alta
+197,Romaria de Santa Maria de Aguiar,15/08/2024,,,Figueira de Castelo Rodrigo,Guarda,"Após a procissão, merendas pelo arraial.",beira_alta
+198,Festa do Senhor do Calvário,11/08/2024,,,Gouveia,Guarda,Com tradicional procissão. Festival de folclore.,beira_alta
+199,Feira de S. Mateus,08/06/2024,,,Viseu,Viseu,,beira_alta
+200,Festas de S. Lourenço,11/08/2024,,,Celorico da Beira,Guarda,,beira_alta
+201,Divino Senhor dos Aflitos,01/09/2024,,"União das freguesias de Aldeia da Ribeira, Vilar Maior e Badamalos",Sabugal,Guarda,"Jogos populares, procissão das velas no sábado. No domingo, missa e procissão.",beira_alta
+202,Romaria da Senhora dos Remédios,08/09/2024,,,Lamego,Viseu,"Chamada a romaria de Portugal. Procissão do Triunfo. Marcha Luminosa, outrora cortejo histórico e etnográfico (pena ter perdido importância a vertente etnográfica, de tão alto interesse como mostra das tradições populares locais). Noitada na avenida com concertinas, danças e cantares ao desafio.",beira_alta
+203,Romaria da Senhora do Castelo,08/09/2024,,,Mangualde,Viseu,"Tradição de hastear uma bandeira no alto da torre, que tem mais de trinta metros de altura.",beira_alta
+204,Feira de S. Bartolomeu,24/08/2024,,,Trancoso,Guarda,,beira_alta
+205,Festa de S. Martinho,11/11/2024,,,Vila Nova de Foz Côa,Guarda,Cortejo com toque de latas e caldeiros. Rusga musical.,beira_alta
+206,S. Martinho,11/11/2024,,,São Pedro do Sul,Viseu,,beira_alta
+207,S. Martinho,11/11/2024,,"União das freguesias de Torre do Terrenho, Sebadelhe da Serra e Terrenho",Trancoso,Guarda,,beira_alta
+208,S. Silvestre,31/12/2024,,Queirã,Vouzela,Viseu,,beira_alta
+209,Festa de Santo Amaro,15/01/2024,,Alfeizerão,Alcobaça,Leiria,,estremadura
+210,Romaria de Santo Antão,17/01/2024,,,Óbidos,Leiria,"Protector dos animais, muito concorrida, no alto de um cabeço, a que os romeiros sobem a pé, por uma vereda. Arraial com cantares ao acordeão nas tendas de comes e bebes.",estremadura
+211,Festa de S. Sebastião,20/01/2024,,Valado dos Frades,Nazaré,Leiria,"Por vezes chamada festa da chouriça, pelo leilão das oferendas em chouriços.",estremadura
+212,Romaria de S. Brás,03/02/2024,,Pederneira,Nazaré,Leiria,"A que acorrem quase todos os nazarenos e nazarenas. Actuação de ranchos de “ensaiados”, grupos músico-coreográficos que se exibem entre o dia de Reis e o Carnaval, e que levam o nome de contradanças na maioria das regiões do país – v. a rubrica “Contradança” na Enciclopédia de Tradições Populares, em Terra Mater.",estremadura
+213,Procissão da burrinha,10/03/2024,,,Mafra,Lisboa,,estremadura
+214,Enterro do bacalhau,30/03/2024,,,Sesimbra,Setúbal,,estremadura
+215,Procissão dos Passos,24/03/2024,,,Óbidos,Leiria,Que percorre as ruas do burgo medieval,estremadura
+216,Procissão da Burrinha,24/03/2024,,,Mafra,Lisboa,"É uma procissão dos Passos do Senhor, com várias figurações bíblicas, entre as quais a cena da “Fuga para o Egipto”, donde provém o nome da procissão",estremadura
+217,círio dos marítimos à Senhora da Atalaia,31/03/2024,,,Alcochete,Setúbal,"Gaiteiro, cortejo com carros de bois, carroças em direcção ao santuário. Leilão das bandeiras e fogaças.",estremadura
+218,Festa do Senhor Jesus das Chagas,03/05/2024,,,Sesimbra,Setúbal,Procissão dos pescadores com bênção do mar.,estremadura
+219,Festa da Senhora da Gaiola ou Festa do Bodo,03/05/2024,,Cortes,Leiria,Leiria,"Em honra do Menino Jesus. As moças transportam à cabeça tabuleiros de oferendas, doces chamados “fradinhos do Menino Jesus”. Procissão de imagens do Menino Jesus, pertencentes a todas as famílias da freguesia.",estremadura
+220,Festas da Cidade,15/05/2024,,,Caldas da Rainha,Leiria,"Feriado municipal. Missa na Igreja de Nossa senhora do Pópulo em honra da Rainha D. Leonor, fundadora e padroeira da cidade. Grande variedade de espectáculos e certames, como exposições de cerâmica, arte em que sempre se destacou a cidade de Caldas da Rainha.",estremadura
+221,Romaria de Santa Quitéria de Meca,09/05/2024,,Meca,Alenquer,Lisboa,Bênção do gado em redor do cruzeiro.,estremadura
+222,Círio da Nazaré a Nossa Senhora da Vitória,09/05/2024,,União das freguesias de Pataias e Martingança,Alcobaça,Leiria,,estremadura
+223,Festa de Nossa Senhora dos Prazeres,19/05/2024,,Aldeiagalega da Merceana,Alenquer,Lisboa,Procissão com bênção das vinhas.,estremadura
+224,Festa da Santíssima Trindade,26/05/2024,,,Batalha,Leiria,"Cortejo e bênção dos tabuleiros de oferendas. Distribuição, ou melhor, lançamento dos merendeirinhos ao fiéis.",estremadura
+225,Festas de Santo António,13/06/2024,,,Lisboa,Lisboa,"Marchas populares na Avenida da Liberdade. Tronos ao santo, sardinha assada e bailes nos bairros populares, sobretudo em Alfama, mas também no Bairro Alto, Bica, Mouraria, Graça e Costa do Castelo. Casamentos de Santo António – v. rubrica “Marchas de Lisboa” na Enciclopédia de Tradições Populares, em Terra Mater.",estremadura
+226,Festa de Santo António,13/06/2024,,Rebolaria,Batalha,Leiria,"Com encamisada nocturna, com dois anjinhos montados em burros, que lançam as loas em que descrevem a vida do taumaturgo. O cortejo desce à vila e regressa ao adro da Rebolaria. Acompanhamento musical a cargo de uma pequena banda filarmónica.",estremadura
+227,Festa de Santo António,13/06/2024,,,Cascais,Lisboa,"Procissão da Capela da Cidadela, onde se guarda a imagem do taumaturgo.",estremadura
+228,Festa de S. João Baptista,24/06/2024,,União das freguesias de Dois Portos e Runa,Torres Vedras,Lisboa,"Arruadas, folclore, fogo de artifício.",estremadura
+229,Festas de S. Pedro,29/06/2024,,,Porto de Mós,Leiria,,estremadura
+230,Feira de S. Pedro,29/06/2024,,,Torres Vedras,Lisboa,,estremadura
+231,Festas de S. Pedro,29/06/2024,,,Montijo,Setúbal,Procissão com bênção dos barcos. Bodo da sardinha assada. Largada e corridas de touros. Queima do batel.,estremadura
+232,Feira Grande de S. Pedro,29/06/2024,,,Sintra,Lisboa,,estremadura
+233,Festa de Nossa Senhora do Cardal,28/07/2024,,,Pombal,Leiria,"Ou Festa do Bodo: procissão da Igreja de S. Pedro até à Capela do Cardal. A fogaça, resquício do antigo bodo, é a atracção gastronómica. Fogo de artifício.",estremadura
+234,Festas da Rainha Santa,28/07/2024,,União das freguesias de Monte Real e Carvide,Leiria,Leiria,,estremadura
+235,Festa de Santa Maria Madalena,22/07/2024,,A dos Negros,Óbidos,Leiria,,estremadura
+236,Festas do município,24/07/2024,,,Pedrógão Grande,Leiria,"Com espectáculos, folclore, feira de artesanato e a tradicional sardinhada.",estremadura
+237,Senhora das Neves,05/08/2024,,Pragança,Cadaval,Lisboa,,estremadura
+238,Romaria da Senhora do Socorro,05/08/2024,,"União das freguesias de Enxara do Bispo, Gradil e Vila Franca do Rosário",Mafra,Lisboa,Na sua capelinha do alto da Serra do Socorro,estremadura
+239,Festas de Nossa Senhora da Boa Viagem,04/08/2024,,,Peniche,Leiria,"Procissão no mar com bênção dos barcos. Domingo à tarde, solene procissão da festa.",estremadura
+240,Festa de Nossa Senhora da Misericórdia,04/08/2024,,União das freguesias de Queluz e Belas,Sintra,Lisboa,Missa e procissão pelas ruas da vila.,estremadura
+241,Senhora da Vitória,15/08/2024,,,Batalha,Leiria,,estremadura
+242,Festa de Nossa Senhora da Assunção,15/08/2024,,União das freguesias de Igreja Nova e Cheleiros,Mafra,Lisboa,Missa e procissão pelas ruas da aldeia,estremadura
+243,Festa de Nossa Senhora da Encarnação,15/08/2024,,,Leiria,Leiria,"Procissão solene desde a Igreja de Santo Agostinho até ao santuário da Senhora da Encarnação, no alto de um monte fronteiro ao Castelo de Leiria.",estremadura
+244,Senhora da Boa Viagem,15/08/2024,,Ericeira,Mafra,Lisboa,"Procissão no mar no sábado à noite. Procissão pelas ruas da vila no domingo à tarde, com destaque para o andor transportado pelos pescadores.",estremadura
+245,Senhora do Bom Sucesso,15/08/2024,,Lagoa de Óbidos,Óbidos,Leiria,"Círio do Vau, com o canto das loas pelo anjinho montado num cavalo.",estremadura
+246,Romaria de S. Mamede,17/08/2024,,Janas,Sintra,Lisboa,"Bênção de gado com três voltas à capela, outrora rebanhos, hoje sobretudo cães de companhia e cavalos. Destaque para a arquitectura regional, em redondo, da capela.",estremadura
+247,Festa de Nossa Senhora dos Navegantes,08/06/2024,,,Cascais,Lisboa,"Procissão dos pescadores que leva a imagem às traineiras engalanadas (que vão até à Guia e voltam) e bênção do mar. Artesanato, gastronomia, fogo-de-artifício.",estremadura
+248,Festas da Senhora da Nazaré,08/09/2024,,,Nazaré,Leiria,"Cuja imagem, segundo a lenda é das mais antigas da Cristandade pois teria sido lavrada pelo próprio S. José. Durante a invasão muçulmana, teria sido escondida na Pederneira, onde mais tarde foi encontrada pelos pastores. O milagre protagonizado por D. Fuas Roupinho ficou consagrada na capelinha da Memória, no Sítio, no alto da falésia, perto da qual foi erigido o santuário. Durante todo o mês, é notável o concurso de muitoscírios, de variadas proveniências, de que se destacam o Círio da Prata Grande (giro que inclui povoações dos concelhos de Mafra, Sintra e Torres Vedras), o Círio de Penela e o Círio de Olhalvo, sucessivamente a cargo de vários lugares da freguesia – v., na Enciclopédia Terra Mater, as rubricasCírioeSenhora da Nazaré. Cada círio leva o seu gaiteiro, que tanto toca na procissão da chegada em redor do santuário, como nas ocasiões profanas.",estremadura
+249,Senhora da Ajuda,01/09/2024,,Gaeiras,Óbidos,Leiria,,estremadura
+250,Festa de Nossa Senhora da Saúde,08/09/2024,,Vila Cã,Pombal,Leiria,"No sábado à tarde, cavalhadas à moda antiga, com competição para os cavaleiros acertarem numa roseta pendurada em fio que atravessa a rua. Procissão solene.",estremadura
+251,Festa das Vindimas,09/06/2024,,,Palmela,Setúbal,Largadas de touros; provas do vinho; arruadas; cortejo alegórico.,estremadura
+252,Festa da Senhora do Fetal,06/10/2024,,Reguengo do Fetal,Batalha,Leiria,Procissão nocturna à luz de milhares de lamparinas em cascas de caracóis. Procissão das oferendas armadas em tabuleiros.,estremadura
+253,Romaria dos pescadores à Senhora do Cabo Espichel,29/09/2024,,,Sesimbra,Setúbal,Procissão com bênção do mar. Santuário barroco situado na imponente falésia do Espichel. Círios do giro à Senhora do Cabo.,estremadura
+254,Bom Jesus do Carvalhal,08/09/2024,,Carvalhal,Bombarral,Leiria,"Visita de círios, com os anjinhos a cantarem as loas e os gaiteiros tocando à frente da procissão de cada localidade – v. a entradaCírio, na Enciclopédia terra Mater.",estremadura
+255,Feira das Mercês,10/06/2024,,Mercês,Sintra,Lisboa,Missa solene e procissão. Feira característica da região saloia,estremadura
+256,Círios a Nossa Senhora dos Remédios,20/10/2024,,,Peniche,Leiria,"Provenientes de várias localidades, com o canto das loas e seus gaiteiros – v. as rubricasCírioe Senhora dos Remédios na Enciclopédia de Tradições Populares, em Terra Mater.",estremadura
+257,Santo André,30/11/2024,,Arelho,Óbidos,Leiria,,estremadura
+258,celebração de Todos os Santos,01/11/2024,,Alfarim,Sesimbra,Setúbal,,estremadura
+259,Feira dos Santos,01/11/2024,,Livramento,Mafra,Lisboa,,estremadura
+260,Festa de S. Martinho,11/11/2024,,São Martinho do Porto,Alcobaça,Leiria,,estremadura
+261,Senhora da Conceição,08/12/2024,,Atouguia da Baleia,Peniche,Leiria,,estremadura
+262,círio da Carrasqueira ao Bom Jesus do Carvalhal,01/12/2024,,Carvalhal,Bombarral,Leiria,,estremadura
+263,círio de Atouguia da Baleia ao Bom Jesus do Carvalhal,15/12/2024,,Carvalhal,Bombarral,Leiria,,estremadura
+264,Festa de S. Sebastião ou Festa das Papas,03/01/2024,,União das freguesias de Póvoa de Atalaia e Atalaia do Campo,Fundão,Castelo Branco,Na procissão integram-se duas filas de mulheres com açafates à cabeça levando as papas de carolo.,beira_baixa
+265,Festa de S. Sebastião,20/01/2024,,Almaceda,Castelo Branco,Castelo Branco,,beira_baixa
+266,Festa de S. Sebastião,20/01/2024,,São Jorge da Beira,Covilhã,Castelo Branco,Bodo oferecido pelos mordomos.,beira_baixa
+267,Festa de S. Sebastião,20/01/2024,,Janeiro de Baixo,Pampilhosa da Serra,Coimbra,"Com bodo. Festa idêntica, também com bodo, noutras aldeias do concelho, como Cabril, Ponte de Fajão e Vidual.",beira_baixa
+268,Festa de S. Brás,03/02/2024,,União das freguesias de Lajeosa e Forcalhos,Sabugal,Guarda,,beira_baixa
+269,Procissão dos Penitentes,16/03/2024,,Paul,Covilhã,Castelo Branco,"Com as luzes da povoação apagadas, grupos de homens descalços envoltos em panos brancos arrastam correntes pelas ruas, em forma de suplício pessoal que os irmana aos padecimentos de Cristo a caminho do Gólgota. Entoam um cântico soturno.",beira_baixa
+270,Romaria de Nossa Senhora do Incenso,01/04/2024,,,Penamacor,Castelo Branco,Missa seguida de procissão solene ao redor da capela. Merendas no arraial e convívio.,beira_baixa
+271,Festa de Santa Catarina de Sena,01/04/2024,,Ladoeiro,Castelo Branco,Castelo Branco,Missa campal e procissão. Corrida de touros.,beira_baixa
+272,Romaria de Nossa Senhora da Granja,01/04/2024,,Proença-a-Velha,Idanha-a-Nova,Castelo Branco,"Ao longo da Quaresma acorrem muitos romeiros à ermida. Missa e procissão ao redor da ermida, seguida por refeição nos campos circundantes, e convívio com adufes, concertinas e ranchos folclóricos",beira_baixa
+273,Romaria de Nossa Senhora da Esperança,26/04/2024,,,Belmonte,Castelo Branco,"Na véspera à noite, procissão das velas. No dia de festa, missa e procissão. Segundo a tradição, a imagem de Nossa Senhora da Esperança terá acompanhado Pedro Álvares Cabral, natural de Belmonte, na descoberta do Brasil.",beira_baixa
+274,Romaria de Nossa Senhora do Almortão,31/03/2024,,,Idanha-a-Nova,Castelo Branco,"Talvez a mais importante romaria da Beira Baixa, hoje último bastião das vendedeiras e tocadoras de adufes. Os ranchos das várias aldeias, à chegada ao santuário, dão três voltas à capela e cumprimentam Nossa Senhora tocando adufes no alpendre, virados para o altar. Impressionante procissão e missa campal. Merendas pelo arraial. Ao fim da tarde, a banda filarmónica toca a conhecida melodia à Senhora do Almortão ao redor da capela, seguida de muito povo e muito entusiasmo.",beira_baixa
+275,feriado municipal na terça-feira) – Romaria de Nossa Senhora de Mércoles,31/03/2024,,,Castelo Branco,Castelo Branco,"Padroeira da cidade. No sábado, procissão nocturna em redor do santuário. No Domingo, pelas ruas de castelo Branco, a banda filarmónica toca as Alvíssaras da Ressurreição. Domingo e terça-feira, missa campal e procissão. Arraial e divertimentos populares, ranchos folclóricos, tunas, concertinas e bandas filarmónicas. Grande afluência de gentes de toda a Beira Baixa.",beira_baixa
+276,Festa da Santa Cruz ou do Castelo,03/05/2024,,União das freguesias de Monsanto e Idanha-a-Velha,Idanha-a-Nova,Castelo Branco,"Além das festividades religiosas, realiza-se a tradicional subida ao castelo, em cortejo popular, tocando adufe e transportando as marafonas (bonecas de trapos, usadas em dias de trovoadas para as esconjurar), cestos com flores e um pote cheio de flores que é lançado do alto das muralhas, em comemoração de um cerco lendário que terá terminado após a população sitiada ter lançado do mesmo local uma vitela com o bucho cheio de trigo, indicando ao exército inimigo que ainda tinham muitos víveres armazenados. Convívio musical na alcáçova do castelo, com o rancho folclórico local. Missa e procissão.",beira_baixa
+277,Romaria de S. Macário,21/04/2024,,Alcaide,Fundão,Castelo Branco,A procissão sobe à capelinha em honra do santo protector do ouvido,beira_baixa
+278,Festa da Senhora dos Altos Céus,03/05/2024,,União das freguesias de Escalos de Cima e Lousa,Castelo Branco,Castelo Branco,"Interessantes danças rituais: dança da genebres, dança das tesouras, dança das virgens, resquícios das danças que outrora integravam as procissões religiosas, sobretudo a do Corpus Christi",beira_baixa
+279,Romaria de Santa Apolónia,05/05/2024,,Alcains,Castelo Branco,Castelo Branco,"Procissão desde a igreja matriz até à ermida, onde se integram mulheres levando tabuleiros  com as oferendas para a santa.",beira_baixa
+280,Romaria da Senhora da Póvoa,19/05/2024,,Vale da Senhora da Póvoa,Penamacor,Castelo Branco,Outrora um grande centro difusor do adufe,beira_baixa
+281,Feira de São Tiago,07/06/2024,,,Covilhã,Castelo Branco,Gastronomia: queijos e cherivias. Diversões populares.,beira_baixa
+282,Festa de S. Pedro,07/07/2024,,Alcains,Castelo Branco,Castelo Branco,"O aspecto mais característico desta festa é a confecção e ingestão das tradicionais papas de carolo, feitas ao ar livre em caldeiras de latão.",beira_baixa
+283,Romaria de Nossa Senhora das Dores,07/07/2024,,Paul,Covilhã,Castelo Branco,"Procissão desde a igreja até ao santuário, onde é dita a missa. À tarde, cortejo alegórico.",beira_baixa
+284,Senhora do Carmo,15/08/2024,,União das freguesias de Teixoso e Sarzedo,Covilhã,Castelo Branco,,beira_baixa
+285,Festa de Santa Margarida,15/08/2024,,Aldeia de Santa Margarida,Idanha-a-Nova,Castelo Branco,"Padroeira da aldeia. Missa e procissão com os andores da santa festejada, de S. Sebastião e de Santo António. Arruadas de bombos, garraiadas",beira_baixa
+286,Senhor do Calvário,18/08/2024,,Proença-a-Velha,Idanha-a-Nova,Castelo Branco,"Procissão, fogo preso",beira_baixa
+287,Festa de Nossa Senhora do Loreto,25/08/2024,,União das freguesias de Idanha-a-Nova e Alcafozes,Idanha-a-Nova,Castelo Branco,"Padroeira universal da aviação, hoje apadrinhada pela Força Aérea Portuguesa, que se faz representar com muitos dos seus membros. Garraiada à vara larga. Procissão das velas, missa campal.",beira_baixa
+288,Senhora da Confiança,08/09/2024,,Pedrógão Pequeno,Sertã,Castelo Branco,,beira_baixa
+289,Senhora da Azenha,08/09/2024,,União das freguesias de Monsanto e Idanha-a-Velha,Idanha-a-Nova,Castelo Branco,,beira_baixa
+290,Romaria de Santa Luzia,15/09/2024,,Castelejo,Fundão,Castelo Branco,"A maior romaria da Cova da Beira, juntando peregrinos provenientes das serras ao redor, e da região do Pinhal. Na véspera, procissão de velas nocturna desde a Igreja do Castelejo até ao santuário, seguida de arraial, este animado por grupos de concertinas e de adufes. No dia da festa, o anúncio musical da alvorada tem lugar no Fundão, no largo da Câmara Municipal, com as entidades locais. Missa campal e procissão solene ao redor do arraial. Seguidamente, chegam os tractores das freguesias, cada um trazendo o seu grupo de romeiros, que irrompem pelo arraial cantando e recebendo os aplausos dos conterrâneos que os esperam junto à fonte, em delírio. Passando a fonte, chegam à capela e descem dos carros. Formam-se então os grupos de bombos que, à vez, irrompem pelo arraial. com estrondo e galhardia. O povo abre alas e aplaude, contagiado pelo frenesim percutivo. Merendas pelo arraial.",beira_baixa
+291,Santa Eufémia,08/09/2024,,Quadrazais,Sabugal,Guarda,,beira_baixa
+292,Festa de Santa Bebiana,02/12/2024,,Caria,Belmonte,Castelo Branco,"Cortejo pelas ruas anunciando a festa e celebrando a santa e o S. Martinho, com animação musical a cargo de acordeão e de pífaros. Sermão e eleição da mulher mais bêbeda da terra.",beira_baixa
+293,Festa da Candelária,02/02/2024,,União das freguesias de Louredo e Fornelos,Santa Marta de Penaguião,Vila Real,"Com leilão das ofertas e animação a cargo da Tuna de Carvalhais, com baile popular. Cenário da Serra do Marão, por onde ressoam os acordes da tuna, uma das melhores tunas rurais ainda em actividade.",douro_litoral
+294,Romaria de S. Brás,03/02/2024,,"União das freguesias de Perafita, Lavra e Santa Cruz do Bispo",Matosinhos,Porto,,douro_litoral
+295,Festa das Fogaceiras,20/01/2024,,,Santa Maria da Feira,Aveiro,"Feriado municipal: importantíssima romaria celebrando S. Sebastião. Na procissão, meninas de branco levam as fogaças à cabeça. Andores de S. Sebastião e de Nossa Senhora da Encarnação. As fogaças destinavam-se inicialmente a serem distribuídas pelos pobres. Desfile das fogaceiras.",douro_litoral
+296,Procissão dos Passos,24/03/2024,,Rates,Póvoa de Varzim,Porto,"Que sai da conhecida igreja românica, de belo recorte rústico.",douro_litoral
+297,Procissão das Endoenças,28/03/2024,,Entre-os-Rios,Penafiel,Porto,"Ponte e trajecto iluminado com luminárias. Muito vistoso. Canto da Verónica em várias paragens e sermão do encontro. Procissão muito concorrida e com muita devoção. Atravessa o casario antigo até à beira do rio Douro, passando a subir o povo até ao alto, capela do Calvário, onde termina.",douro_litoral
+298,Feira da Páscoa,29/03/2024,,,Vila do Conde,Porto,,douro_litoral
+299,Procissão do Enterro,29/03/2024,,,Póvoa de Varzim,Porto,"Canta a Verónica e as “Marias do Aú”, assim chamadas porque o seu cântico, que sucede ao da Verónica, começa pela interjeição latina “Ehu! Ehu, Domine!”",douro_litoral
+300,Queima do Judas,30/03/2024,,Guilhabreu,Vila do Conde,Porto,"Boneco de palha queimado na fogueira, perante a animação popular. Antes da queima, é lido o testamento do Judas, que contém habitualmente alusões e críticas locais.",douro_litoral
+301,Procissão da Ressurreição e à tarde compasso pascal pelas ruas,31/03/2024,,,Póvoa de Varzim,Porto,"Com as casas todas floridas para receberem a visita de Nosso Senhor ressuscitado. Nas ruas ainda se joga o tradicional jogo da pela. Na segunda-feira, Festa do Anjo.",douro_litoral
+302,romaria de Santa Luzia,01/04/2024,,Duas Igrejas,Penafiel,Porto,"No sopé do Monte Mozinho, conhecido sítio arqueológico",douro_litoral
+303,festa de Santa Mafalda,02/05/2024,,,Arouca,Aveiro,"Cujo corpo incorrupto jaz na igreja do Convento em túmulo de prata e cristal. Era filha de D. Sancho I, neta do nosso primeiro rei. Feriado municipal dada a importância da santa. De manhã, missa solene e à tarde majestosa procissão. A gastronomia local poderá ser apreciada: vitela arouquesa, cabrito da Gralheira, bem como doçaria conventual: barrigas de freira e bolos de S. Bernardo.",douro_litoral
+304,Romaria da Senhora da Laje ou das Cruzes,03/05/2024,,Urrô,Arouca,Aveiro,"A procissão sai da capela da Senhora da Laje e percorre as onze cruzes de granito, onde a esperam os romeiros de cada freguesia para nela se incorporarem. Integra-se nas festividades da Divina Santa Cruz, celebradas a 3 de Maio um pouco por todo o país – v. Barcelos, Monsanto.",douro_litoral
+305,Romaria da Senhora do Salto,03/05/2024,,Aguiar de Sousa,Paredes,Porto,"Local magnífico, em ermo sobre o rio Sousa, onde, segundo a lenda, um cavaleiro conseguiu saltar sobre o desfiladeiro evitando a morte para que o demónio, em forma de lebre, o atraíra. Foi esse cavaleiro que mandou erigir a capela.",douro_litoral
+306,Festa de S. Gonçalo,19/05/2024,,"União das freguesias da Póvoa de Varzim, Beiriz e Argivai",Póvoa de Varzim,Porto,Santo casamenteiro e protector dos pescadores,douro_litoral
+307,Romaria de S. Gonçalo,02/06/2024,,,Amarante,Porto,Santo casamenteiro. Procissão solene. Despique de bombos.,douro_litoral
+308,Festa de S. Sebastião,09/06/2024,,Freamunde,Paços de Ferreira,Porto,"Santo protector contra a fome, a peste e a guerra. Festa a cargo dos homens casados. Missa de festa e procissão. Ranchos folclóricos, Zés-Pereiras, cabeçudos e gigantones. Tradição das “vacas de fogo”: uma caixa em forma de vaca deita bichas de rabear pela ruas, assustando e divertindo a multidão.",douro_litoral
+309,Romaria do Senhor da Pedra,02/06/2024,,Miramar,Vila Nova de Gaia,Porto,"Cuja capela se situa num penhasco junto ao mar (rodeado pelo mar na maré-cheia). Desde a madrugada acorrem rusgas populares, hoje sobretudo organizadas pelos ranchos folclóricos. Procissão junto ao rochedo. Muita afluência, com muita devoção.",douro_litoral
+310,Festividades do Corpus Christi,30/05/2024,,,Penafiel,Porto,"Na véspera, cavalhada nocturna, com exibição, em frente à Câmara Municipal, das danças tradicionais. Estas exibiam-se outrora durante a procissão religiosa, mas agora actuam apenas pelas ruas da cidade, na véspera e no dia da festa – muito interessante pela animação e colorido, pela variedade musical e coreográfica e pela importância histórica. Na procissão religiosa, de grande solenidade e imponência, segue o chamado Estado de S. Jorge, a serpe, o boi bento, o carro triunfal e as danças, estas apenas como figurantes, porque não actuam no trajecto. Danças populares que saem actualmente: ferreiros, floreiras, pedreiros, pauzinhos, turcos (mouriscada) e pretos, esta com dança das fitas. São danças profissionais procedentes da Idade Média, outrora patrocinadas pelos ofícios e hoje a cargo das associações de bairro e dos ranchos folclóricos. Penafiel é a única localidade portuguesa que as conserva.",douro_litoral
+311,Festa do Corpus Christi,30/05/2024,,,Santa Maria da Feira,Aveiro,,douro_litoral
+312,festa de S. João,24/06/2024,,,Castelo de Paiva,Aveiro,,douro_litoral
+313,Festas de S. João,24/06/2024,,,Porto,Porto,"Arraiais nos bairros populares, sobretudo nas Fontainhas. Cascatas, fogueiras, martelinhos e alho-porro. Arraiais nos bairros populares, mais típicos nas Fontainhas e Miragaia. Magnífico fogo de artifício sobre o rio Douro.",douro_litoral
+314,Cascatas em honra do santo,24/06/2024,,,Vila do Conde,Porto,"Marchas populares dos dois bairros, o Monte e a Praça, pela ruas à noite, seguidas de espectáculos e exibição das marchas em palco em cada um dos referidos bairros. Missa e procissão solene.",douro_litoral
+315,Festa de S. João,24/06/2024,,União das freguesias de Campo e Sobrado,Valongo,Porto,"Apresentando como principal ponto de interesse uma interessantíssima mouriscada, luta figurada entre mouriscos e bugios (cristãos) – vide mais desenvolvimento na Enciclopédia de Tradições Populares Terra Mater.",douro_litoral
+316,Festa de S. Pedro,29/06/2024,,,Póvoa de Varzim,Porto,Cada bairro organiza as suas cascatas e as suas rusgas ou marchas. Bailes pela noite fora. Sardinhadas pelos bairros populares.,douro_litoral
+317,Festa de S. Pedro,29/06/2024,,União das freguesias de Santa Marinha e São Pedro da Afurada,Vila Nova de Gaia,Porto,,douro_litoral
+318,Festa de S. Pedro,29/06/2024,,,Felgueiras,Porto,Marchas populares. Cortejo das flores.,douro_litoral
+319,Festa de S. Bento,11/07/2024,,,Santo Tirso,Porto,"Ofertas populares de cravos brancos, ovos e sal.",douro_litoral
+320,Romaria de S. Bento das Peras e de S. Cristóvão,11/07/2024,,Rio Tinto,Gondomar,Porto,"No último domingo, procissão pela encosta do monte acima até à capela, onde se realiza a missa campal. Cantares ao desafio no arraial.",douro_litoral
+321,Senhora da Boa Viagem,28/07/2024,,União das freguesias de Aguçadoura e Navais,Póvoa de Varzim,Porto,,douro_litoral
+322,Festa de Nossa Senhora das Neves,05/08/2024,,A-Ver-o-Mar,Póvoa de Varzim,Porto,Procissão imponente.,douro_litoral
+323,Festa de Nosso Senhor dos Navegantes,04/08/2024,,,Vila do Conde,Porto,"Com grandiosa procissão. Grande devoção por parte das comunidades piscatórias do concelho, sobretudo de Caxinas.",douro_litoral
+324,Romaria da Senhora Aparecida,15/08/2024,,Torno,Lousada,Porto,,douro_litoral
+325,Festa de Nossa Senhora da Assunção,15/08/2024,,Monte Córdova,Santo Tirso,Porto,Concorrida romaria à basílica erigida no alto do monte.,douro_litoral
+326,Festa de Nossa Senhora da Assunção,15/08/2024,,,Póvoa de Varzim,Porto,"Com solene procissão em direcção ao porto de pesca, onde os andores param virados para o mar, altura em que rebentam foguetes. Barcos engalanados, com lenços das mulheres nos mastros.",douro_litoral
+327,Romaria de Santa Eufémia,15/08/2024,,São Pedro,Castelo de Paiva,Aveiro,Missa de festa e procissão solene. Leilão das promessas.,douro_litoral
+328,Festa de Nossa Senhora das Dores,18/08/2024,,,Trofa,Porto,Procissão com andores gigantescos.,douro_litoral
+329,S. Bartolomeu,24/08/2024,,Barqueiros,Mesão Frio,Vila Real,,douro_litoral
+330,Feira de S. Bartolomeu,24/08/2024,,,Penafiel,Porto,"Também conhecida por Feira das Cebolas. Na noite da véspera, abre-se a porta da igreja para “libertar o diabo”, que sai pelas ruas.",douro_litoral
+331,S. Gens,08/09/2024,,União das freguesias de Freixo de Cima e de Baixo,Amarante,Porto,Cantares ao desafio.,douro_litoral
+332,Senhora da Mó,08/09/2024,,Monte da Mó,Arouca,Aveiro,,douro_litoral
+333,Romaria de Nossa Senhora de Valinhas,08/09/2024,,Monte Córdova,Santo Tirso,Porto,Missa de festa e merendas no arraial.,douro_litoral
+334,Festa de Nossa Senhora do Ó (Senhora da Expectação),15/09/2024,,,Porto,Porto,,douro_litoral
+335,Feira das Colheitas,29/09/2024,,,Arouca,Aveiro,"Tem como propósito fomentar a produção agrícola, promovendo concursos de melhor milho, melhor vinho, gado arouquês, etc. Ranchos folclóricos. Cortejo etnográfico. Desfile de açafates ornamentados com toalhas bordadas, cheios de produtos da terra.",douro_litoral
+336,Romaria de Nossa Senhora do Rosário,06/10/2024,,,Gondomar,Porto,,douro_litoral
+337,Festa de Nossa Senhora do Rosário,06/10/2024,,Duas Igrejas,Penafiel,Porto,"No sábado à noite, procissão das velas.",douro_litoral
+338,Santo André,30/11/2024,,União das freguesias de Ancede e Ribadouro,Baião,Porto,,douro_litoral
+339,Nossa Senhora da Conceição,08/12/2024,,Barqueiros,Mesão Frio,Vila Real,,douro_litoral
+340,Santa Luzia,13/12/2024,,Novais,Póvoa de Varzim,Porto,,douro_litoral
+341,Festa de Santa Luzia,13/12/2024,,Monte Córdova,Santo Tirso,Porto,Com missa e procissão solene. Arraial popular.,douro_litoral
+342,Festa do Menino Jesus,01/01/2024,,Vila Chã de Braciosa,Miranda do Douro,Bragança,"Alvorada com gaiteiros, peditório com os mesmos acompanhando a Velha, o Bailador e a Bailadeira.",tras_os_montes
+343,Festa do Santo Menino,01/01/2024,,Tó,Mogadouro,Bragança,Gaiteiros e o Farandulo correndo as casas para tisnar as moças.,tras_os_montes
+344,Festa dos Reis Magos com gaiteiros,06/01/2024,,Babe,Bragança,Bragança,,tras_os_montes
+345,Festa da Mocidade,06/01/2024,,União das freguesias de Aveleda e Rio de Onor,Bragança,Bragança,,tras_os_montes
+346,Festa dos Reis Magos,06/01/2024,,Vale de Anta,Chaves,Vila Real,Com cantar dos Reis ao acordeão.,tras_os_montes
+347,Festa dos Reis,06/01/2024,,Vale de Salgueiro,Mirandela,Bragança,,tras_os_montes
+348,Festa de S. Sebastião,20/01/2024,,Alturas do Barroso e Cerdedo,Boticas,Vila Real,"Com missa, procissão e bodo de feijoada, cozinhada em potes de ferro, para todos os que aparecerem. As oferendas ao santo são constituídas essencialmente por enchidos. Festa com concertinas.",tras_os_montes
+349,Festa de S. Sebastião,20/01/2024,,Dornelas,Boticas,Vila Real,Com bodo na chamada mesinha de S. Sebastião,tras_os_montes
+350,Festa de S. Sebastião,20/01/2024,,Gimonde,Bragança,Bragança,,tras_os_montes
+351,Festa de S. Sebastião,20/01/2024,,União das freguesias de Ifanes e Paradela,Miranda do Douro,Bragança,,tras_os_montes
+352,Festa dos Compadres e comadres,08/02/2024,,Pinhão,Alijó,Vila Real,,tras_os_montes
+353,Enterro do Entrudo,13/02/2024,,,Freixo de Espada à Cinta,Bragança,"Cortejo nocturno a cargo dos rapazes, que batem chocalhos e latas pelas ruas. No largo, queima do entrudo.",tras_os_montes
+354,Procissão dos Sete Passos,29/03/2024,,,Freixo de Espada à Cinta,Bragança,"Depois da meia-noite, com a povoação às escuras (a iluminação pública é desligada). Trata-se de uma procissão de penitentes, como também ocorre na Cova da Beira, em Lavacolhos e Enxabarda, concelho do Fundão. Homens encapuçados, arrastando correntes presas às pernas. Figura vestida de negro, a velhinha, traz vinho que distribui representando o sangue de Cristo. Em Domingo de Páscoa, após a procissão, queima do Judas.",tras_os_montes
+355,Festa de Nossa Senhora dos Prazeres,07/04/2024,,Mateus,Vila Real,Vila Real,A missa celebra-se na capela do Palácio de Mateus. Seguem-se as tradicionais merendas.,tras_os_montes
+356,Romaria de Santo António,13/06/2024,,Coelhoso,Bragança,Bragança,,tras_os_montes
+357,Festa de Santo António ou da Carola,13/06/2024,,Covas do Barroso,Boticas,Vila Real,"Festa religiosa e profana. Distribuição da carola (pão e vinho, previamente abençoados).",tras_os_montes
+358,Feira de S. Pedro ou dos Pucarinhos,24/06/2024,,,Vila Real,Vila Real,"Por haver muito pucarinhos de barro à venda, sobretudo os barros negros de Bisalhães. Estes barros servem para o conhecido jogo popular do panelo.",tras_os_montes
+359,Bom Jesus do Calvário,07/07/2024,,,Vila Real,Vila Real,Procissão solene.,tras_os_montes
+360,Senhora do Marão,14/07/2024,,União das freguesias de Teixeira e Teixeiró,Baião,Porto,,tras_os_montes
+361,Senhora da Conceição,14/07/2024,,Pinhão,Alijó,Vila Real,,tras_os_montes
+362,Senhora do Amparo,28/07/2024,,,Mirandela,Bragança,Missa de festa e procissão solene.,tras_os_montes
+363,Festa de Santa Ana,04/08/2024,,Campeã,Vila Real,Vila Real,Procissão nocturna.,tras_os_montes
+364,Senhora do Nazo,11/08/2024,,Póvoa,Miranda do Douro,Bragança,,tras_os_montes
+365,Senhora da Assunção,15/08/2024,,,Vinhais,Bragança,,tras_os_montes
+366,Senhora da Assunção,15/08/2024,,,Torre de Moncorvo,Bragança,Procissão solene. Arraial e bailes populares.,tras_os_montes
+367,Senhora da Assunção,15/08/2024,,União das freguesias de Vilas Boas e Vilarinho das Azenhas,Vila Flor,Bragança,,tras_os_montes
+368,Senhora do Salto,15/08/2024,,Salto,Montalegre,Vila Real,,tras_os_montes
+369,Senhora do Castelo,15/08/2024,,"União das freguesias de Algoso, Campo de Víboras e Uva",Vimioso,Bragança,,tras_os_montes
+370,Festa de Nossa Senhora da Livração,18/08/2024,,,Boticas,Vila Real,"No sábado, procissão. No domingo arraial e festival de folclore. Fogo de artifício.",tras_os_montes
+371,Festa de Santo António,18/08/2024,,Montesinho,Bragança,Bragança,"Aldeia muito característica, com poucos habitantes. Festa com muita afluência.",tras_os_montes
+372,Nossa Senhora dos Aflitos,25/08/2024,,Pegarinhos,Alijó,Vila Real,"Na procissão, os andores são quadros vivos representando cenas bíblicas, a cargo dos populares que se oferecem para o efeito.",tras_os_montes
+373,Senhora do Nazo,08/09/2024,,União das freguesias de Constantim e Cicouro,Miranda do Douro,Bragança,,tras_os_montes
+374,Senhora de Almodena,08/09/2024,,,Vila Real,Vila Real,Procissão no dia 7. Feira de gado.,tras_os_montes
+375,Romaria de Nossa Senhora dos Anúncios,12/09/2024,,Vilarelhos,Alfândega da Fé,Bragança,"Procissão, arraial, fogo de artifício.",tras_os_montes
+376,Senhora da Pena,08/09/2024,,União das freguesias de Mouçós e Lamares,Vila Real,Vila Real,"A povoação gaba-se de apresentar na procissão o maior andor do mundo, com cerca de vinte metros de altura. O seu transporte durante a procissão tornou-se um espectáculo que atrai milhares de forasteiros. Corrida cavalos. Zés-Pereiras e bailes populares.",tras_os_montes
+377,Feira dos Gorazes (goraz,10/06/2024,,,Mogadouro,Bragança,"Carne de porco). Feira do final das colheitas, muita concorrida e com muita tradição.",tras_os_montes
+378,Santa Luzia,13/12/2024,,Fetais,Sabrosa,Vila Real,,tras_os_montes
+379,Festa de S. Martinho,11/11/2024,,União das freguesias de Felgueiras e Maçores,Torre de Moncorvo,Bragança,,tras_os_montes
+380,Festa de S. Martinho,11/11/2024,,São Martinho de Angueira,Miranda do Douro,Bragança,,tras_os_montes
+381,Festa do velho,24/12/2024,,"União das freguesias de Mogadouro, Valverde, Vale de Porco e Vilar de Rei",Mogadouro,Bragança,,tras_os_montes
+382,Festa das Raparigas,25/12/2024,,União das freguesias de Travanca e Santa Cruz,Vinhais,Bragança,,tras_os_montes
+383,Festa dos Velhos,25/12/2024,,Bruçó,Mogadouro,Bragança,,tras_os_montes
+384,Festa da Cabra,26/12/2024,,União das freguesias de Rio Frio e Milhão,Bragança,Bragança,,tras_os_montes
+385,Festa do Chocalheiro,26/12/2024,,Bemposta,Mogadouro,Bragança,,tras_os_montes
+386,Festa de Santo Estêvão,26/12/2024,,Vila Boa de Ousilhão,Vinhais,Bragança,"Padroeiro dos rapazes. Música a cargo da gaita-de-foles, caixa e bombo. Mascarados e chocalheiros. Refeição comunitária.",tras_os_montes
+387,Festa de Santo Estêvão,26/12/2024,,Grijó de Parada,Bragança,Bragança,Ronda das boas-festas. Caretos.,tras_os_montes
+388,Festa dos Rapazes ou de Santo Estêvão,25/12/2024,,Vila Meã,Bragança,Bragança,,tras_os_montes
+389,Festa dos Rapazes,26/12/2024,,Babe,Bragança,Bragança,"Alvorada da festa, ao som da gaita-de-foles, caixa e bombo",tras_os_montes
+390,Festa dos Rapazes,24/12/2024,,União das freguesias de São Julião de Palácios e Deilão,Bragança,Bragança,,tras_os_montes
+391,Festa dos Rapazes em louvor de S. João Evangelista,27/12/2024,,União das freguesias de Constantim e Cicouro,Miranda do Douro,Bragança,"Pauliteiros ao som da gaita-de-foles, caixa e bombo. Em todas estas festas dos rapazes  do nordeste trasmontano, os rapazes fazem ronda pela aldeia com peditório para a festa, assistem à missa, realizam refeição colectiva, organizam toda a festa.",tras_os_montes

@@ -1,0 +1,38 @@
+/* Custom styles for the SVG paths using Tailwind's @apply directive */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+path {
+    @apply transition-colors duration-200 ease-in-out cursor-pointer;
+}
+
+path:hover {
+    @apply fill-yellow-400; /* Tailwind class for #ffcc00 */
+}
+
+.selected {
+    @apply fill-yellow-400; /* Tailwind class for #ffcc00 */
+}
+
+.selected-county {
+    fill: yellow; /* Ou qualquer cor que deseje */
+}
+
+.district-svg-container {
+    width: 100%;
+    height: 30vh; /* Adjust this height as needed */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.district-svg-container svg {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.tooltip {
+    pointer-events: none;
+    z-index: 1000;
+}

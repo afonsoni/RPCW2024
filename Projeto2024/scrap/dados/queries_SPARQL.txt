@@ -1,0 +1,18 @@
+PREFIX : <http://rpcw.di.uminho.pt/festas&romarias/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+select ?nome ?dataInicio ?dataFim ?desc ?regiao ?distrito ?concelho ?freguesia where { 
+	?s rdf:type :Festa ;
+	   :nome ?nome ;
+	   :descricao ?desc ;
+	   :dataInicio ?dataInicio ;
+	   :dataFim ?dataFim ;
+	   :ocorreRegiao ?r ;
+	   :ocorreDistrito ?d .
+	?r :nome ?regiao .
+	?d :nome ?distrito .
+    optional{ ?s :ocorreConcelho ?c .
+        ?c :nome ?concelho . }
+    optional{ ?s :ocorreFreguesia ?f .
+        ?f :nome ?freguesia .}
+}
+ORDER BY (?dataInicio)
